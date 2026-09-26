@@ -153,3 +153,25 @@ sup.c a{font:600 .7em var(--sans);text-decoration:none;color:var(--clay);padding
 .gcard b{display:block;font:600 1.05rem/1.25 var(--serif)}
 .gcard small{display:block;font:600 .68rem var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--hemp);margin-bottom:3px}
 .gcard span.arr{flex:none;width:32px;height:32px;border-radius:50%;display:grid;place-items:center;background:#e3ead3;color:var(--hemp);font-weight:700}
+/* From the Groups */
+.gp-day{margin:0 0 40px;padding:0}
+.gp-dayh{font-size:clamp(1.5rem,4.5vw,2rem);padding-bottom:10px;border-bottom:2px solid var(--leaf);margin-bottom:18px;display:flex;align-items:baseline;justify-content:space-between;gap:12px}
+.gp-dayh small{font:600 .74rem var(--sans);letter-spacing:.1em;text-transform:uppercase;color:var(--muted);white-space:nowrap}
+.gp-dayh-sm{font:600 .76rem/1.2 var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--hemp);margin:0 0 12px}
+.gp-grid{display:grid;gap:14px;grid-template-columns:1fr}
+@media (min-width:700px){.gp-grid{grid-template-columns:1fr 1fr}}
+@media (min-width:1040px){.gp-grid{grid-template-columns:repeat(3,1fr)}}
+.gp-card{display:flex;flex-direction:column;padding:18px}
+.gp-card .credit{margin-top:auto}
+.gp-card .tag{align-self:flex-start;margin:2px 0 10px}
+.gp-img{margin:-18px -18px 14px}
+.gp-img img{border-radius:var(--r) var(--r) 0 0;aspect-ratio:4/3;object-fit:cover;width:100%;height:auto;display:block}
+.gp-author{font:600 1.08rem/1.3 var(--sans);letter-spacing:0;margin-bottom:6px}
+.gp-text{font-size:.98rem;margin:0 0 12px;overflow-wrap:anywhere}
+.gp-empty{color:var(--muted);font-style:italic}
+.gp-view{font-weight:600;white-space:nowrap}
+.gp-private{margin-top:16px;background:var(--paper);border:1px dashed var(--line);border-radius:14px;padding:14px 18px}
+.gp-private h4{font:600 .74rem var(--sans);letter-spacing:.12em;text-transform:uppercase;color:var(--clay);margin:0 0 6px}
+.gp-private ul{margin:0;padding-left:1.1em;font-size:.95rem}
+.gp-private li{margin:6px 0}
+.gp-in{color:var(--muted);font-size:.88rem}
