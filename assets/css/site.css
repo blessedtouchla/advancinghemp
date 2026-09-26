@@ -175,3 +175,22 @@ sup.c a{font:600 .7em var(--sans);text-decoration:none;color:var(--clay);padding
 .gp-private ul{margin:0;padding-left:1.1em;font-size:.95rem}
 .gp-private li{margin:6px 0}
 .gp-in{color:var(--muted);font-size:.88rem}
+/* ---------- blog */
+.post-wrap{max-width:760px}
+.page-hero .post-wrap .lede{max-width:none}
+.eyebrow a{color:inherit;text-decoration:none}
+.byline{font:500 .92rem/1.4 var(--sans);color:var(--muted);margin:18px 0 0;padding-top:14px;border-top:1px solid var(--line)}
+.post{max-width:none;font-size:1.06rem;line-height:1.7}
+.post h2{font-size:clamp(1.35rem,4.4vw,1.7rem)}
+.post ol{padding-left:1.4em}
+.post li strong:first-child{color:var(--olive)}
+.letter{margin:18px 0 22px;background:#fff;border-style:dashed;font-size:1rem}
+.letter p{margin:0 0 .8em}
+ul.checklist{list-style:none;padding-left:0}
+ul.checklist li{position:relative;padding-left:2em}
+ul.checklist li::before{content:"";position:absolute;left:0;top:.28em;width:1.05em;height:1.05em;border:2px solid var(--hemp);border-radius:5px;background:var(--paper)}
+.post-note{margin:30px 0 22px}
+.post-next{margin-bottom:10px}
+.blog-list{gap:18px}
+.blog-card h3{font-size:clamp(1.2rem,4vw,1.45rem);line-height:1.25}
+.blog-card time{white-space:nowrap}
