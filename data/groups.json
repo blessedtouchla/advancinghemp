@@ -130,7 +130,10 @@
      "media": "photo",
      "link": "https://www.facebook.com/groups/260413469329951/posts/1432205512150735",
      "is_permalink": true,
-     "time": "2026-09-24T22:50-07:00"
+     "time": "2026-09-24T22:50-07:00",
+     "image": "img/groups/2026-09-24/84df45abf450.jpg",
+     "w": 400,
+     "h": 300
     },
     {
      "id": "6df3c7e0c00d",
@@ -145,7 +148,10 @@
      "media": "photo",
      "link": "https://www.facebook.com/groups/395029814965473/posts/1809895933478847",
      "is_permalink": true,
-     "time": "2026-09-24T17:50-07:00"
+     "time": "2026-09-24T17:50-07:00",
+     "image": "img/groups/2026-09-24/6df3c7e0c00d.jpg",
+     "w": 400,
+     "h": 300
     },
     {
      "id": "410263b58ff7",

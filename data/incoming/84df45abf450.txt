@@ -1,3 +1,0 @@
-# advancinghemp image v1
-id=84df45abf450
-ref=6df3c7e0c00d
