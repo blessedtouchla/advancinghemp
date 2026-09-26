@@ -1,12 +1,23 @@
 #!/usr/bin/env python3
 """Normalize Victoria's Facebook-group captures into data/groups.json for Advancing Hemp.
 
-Usage (from anywhere):  python3 /workspace/hemp/site/tools/groups.py [--raw-dir DIR] [--out FILE] [--no-remote]
+Usage (from anywhere):  python3 /workspace/hemp/site/tools/groups.py [--raw-dir DIR] [--out FILE] [--no-remote] [--restage]
 
-Reads every raw-YYYY-MM-DD.json in the raw dir (default /workspace/hemp/groups), plus two
-side files in the same dir:
+Reads every raw-YYYY-MM-DD.json in the raw dir (default /workspace/hemp/groups), plus side files
+in the same dir:
   private-summaries.json  {"<post id>": "one neutral line, own words, no names/quotes"}
   skip.json               {"<post id>": "reason"}   (manual skips; automatic THC/CBD filter also applies)
+  media-YYYY-MM-DD.json   optional photo/permalink pass, a list of
+                          {"id": "<post id>" (best) | "group_url" + "author" [+ "text": start of the post],
+                           "permalink": "https://www.facebook.com/groups/.../posts/...",
+                           "image_file": "/workspace/hemp/groups/img/YYYY-MM-DD/NN.jpg"}
+                          (a raw post may also carry "permalink" / "image_file" directly)
+
+Photos: every public post with a saved image_file (and no photo in the live repo yet, or --restage)
+is center-cropped to the card's 4:3 frame, shrunk to 400x300 AVIF (WebP fallback) and written as a
+text staging file <site>/data/incoming/<id>.txt (base64 + sha256; identical photos become ref=<id>).
+Push those files with data/groups.json; the repo's group-images workflow unpacks them into
+img/groups/<day>/<id>.jpg. A raw https "image_url" (fbcdn) is still passed on as image_src.
 
 Rules (confirmed by Victoria):
   * Public groups: author display name, group, date, <=300-char excerpt, "View on Facebook"
@@ -17,13 +28,14 @@ Rules (confirmed by Victoria):
   * Skip THC/CBD/smokable promotions and spam.
 Private raw data never leaves the box; only the normalized file is published.
 """
-import argparse, glob, hashlib, json, os, re, sys, urllib.request
+import argparse, base64, glob, hashlib, io, json, os, re, sys, urllib.request
 from datetime import datetime, timedelta, date
 
 SITE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REMOTE = "https://raw.githubusercontent.com/blessedtouchla/advancinghemp/main/data/groups.json"
 WINDOW_DAYS = 14
 EXCERPT_MAX = 300
+STAGE_SIZE = (400, 300)   # .gp-img shows photos at 4:3 (object-fit: cover), ~360 CSS px wide
 
 # Canonical group registry, keyed by Facebook group URL. Privacy here wins over the raw file
 # (a group is treated as private if either says so).
@@ -136,11 +148,68 @@ def load_json(p, default):
         return default
 
 
+def load_media(raw_dir):
+    """All media-YYYY-MM-DD.json entries, oldest file first."""
+    out = []
+    for path in sorted(glob.glob(os.path.join(raw_dir, "media-[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json"))):
+        m = load_json(path, [])
+        out.extend(m.get("posts", []) if isinstance(m, dict) else m)
+    return out
+
+
+def apply_media(public, media):
+    """Attach permalinks / image files from the media pass to public posts. Returns unmatched entries."""
+    unmatched = []
+    for e in media:
+        rec = public.get(e.get("id") or "")
+        if rec is None:
+            url, who = norm_url(e.get("group_url")), (e.get("author") or "").strip()
+            cands = [r for r in public.values()
+                     if r["author"] == who and any(g["url"] == url for g in r["groups"])]
+            if e.get("text"):
+                t, _ = clean_text(e["text"])
+                cands = [r for r in cands if r["key_text"].startswith(t[:60])]
+            rec = cands[0] if len(cands) == 1 else None
+        if rec is None:
+            unmatched.append(e)
+            continue
+        if e.get("permalink") and not rec["is_permalink"]:
+            rec["link"], rec["is_permalink"] = e["permalink"], True
+        if e.get("image_file") and not rec["image_file"]:
+            rec["image_file"] = e["image_file"]
+    return unmatched
+
+
+def stage_image(src, pid, out_dir):
+    """Crop/shrink a saved photo to the card frame and write data/incoming/<pid>.txt. Returns bytes written."""
+    from PIL import Image, ImageOps, features
+    im = ImageOps.exif_transpose(Image.open(src))
+    if im.mode not in ("RGB", "L"):
+        bg = Image.new("RGB", im.size, (251, 248, 241))
+        im = im.convert("RGBA")
+        bg.paste(im, mask=im.split()[-1])
+        im = bg
+    im = ImageOps.fit(im.convert("RGB"), STAGE_SIZE, Image.LANCZOS)
+    buf = io.BytesIO()
+    if features.check("avif"):
+        im.save(buf, "AVIF", quality=32, speed=0)
+    else:
+        im.save(buf, "WEBP", quality=45, method=6)
+    raw = buf.getvalue()
+    b64 = base64.b64encode(raw).decode()
+    body = "\n".join(b64[i:i + 100] for i in range(0, len(b64), 100))
+    txt = f"# advancinghemp image v1\nid={pid}\nsha256={hashlib.sha256(raw).hexdigest()}\n{body}\n"
+    with open(os.path.join(out_dir, pid + ".txt"), "w", encoding="ascii") as f:
+        f.write(txt)
+    return len(txt)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--raw-dir", default="/workspace/hemp/groups")
     ap.add_argument("--out", default=os.path.join(SITE, "data", "groups.json"))
     ap.add_argument("--no-remote", action="store_true", help="don't merge image status from the live repo")
+    ap.add_argument("--restage", action="store_true", help="stage saved photos even if the live repo already has one")
     a = ap.parse_args()
 
     raws = sorted(glob.glob(os.path.join(a.raw_dir, "raw-[0-9][0-9][0-9][0-9]-[0-9][0-9]-[0-9][0-9].json")))
@@ -196,13 +265,17 @@ def main():
                     rec = public[key] = {"id": key, "author": author or "A group member", "groups": [],
                                          "excerpt": excerpt(text), "media": p.get("media") or "text",
                                          "link": None, "is_permalink": False, "when": when,
-                                         "image_url": None}
+                                         "image_url": None, "image_file": None, "key_text": key_text}
                 if ginfo not in rec["groups"]:
                     rec["groups"].append(ginfo)
                 if p.get("permalink") and not rec["is_permalink"]:
                     rec["link"], rec["is_permalink"] = p["permalink"], True
                 if p.get("image_url") and not rec["image_url"]:
                     rec["image_url"] = p["image_url"]
+                if p.get("image_file") and not rec["image_file"]:
+                    rec["image_file"] = p["image_file"]
+
+    unmatched = apply_media(public, load_media(a.raw_dir))
 
     # Private posts that are the same post as a public one (e.g. cross-posted) are already shown publicly.
     folded = [k for k in private if k in public]
@@ -211,6 +284,7 @@ def main():
 
     cutoff = (latest_cap - timedelta(days=WINDOW_DAYS - 1)).date()
     days = {}
+    to_stage = []
     for rec in public.values():
         d = rec["when"].date()
         if d < cutoff:
@@ -219,10 +293,12 @@ def main():
                "media": rec["media"], "link": rec["link"] or rec["groups"][0]["url"],
                "is_permalink": rec["is_permalink"], "time": rec["when"].isoformat(timespec="minutes")}
         old = prev.get(rec["id"], {})
-        if old.get("image"):
+        if old.get("image") and not (a.restage and rec["image_file"]):
             out["image"] = old["image"]
             for k in ("w", "h"):
                 if old.get(k): out[k] = old[k]
+        elif rec["image_file"] and os.path.exists(rec["image_file"]):
+            to_stage.append((rec["id"], rec["image_file"]))   # unpacked by the group-images workflow
         elif old.get("image_failed"):
             out["image_failed"] = True
         elif rec["image_url"] and rec["image_url"].startswith("https://"):
@@ -252,6 +328,22 @@ def main():
         json.dump(data, f, ensure_ascii=False, indent=1)
         f.write("\n")
 
+    inc = os.path.join(os.path.dirname(a.out), "incoming")
+    for old_stage in glob.glob(os.path.join(inc, "*.txt")):
+        os.remove(old_stage)                      # staging files are rebuilt every run
+    staged, seen = [], {}
+    if to_stage:
+        os.makedirs(inc, exist_ok=True)
+    for pid_, src in to_stage:
+        digest = hashlib.sha256(open(src, "rb").read()).hexdigest()
+        if digest in seen:                        # same photo on two posts: reuse, don't resend
+            with open(os.path.join(inc, pid_ + ".txt"), "w", encoding="ascii") as f:
+                f.write(f"# advancinghemp image v1\nid={pid_}\nref={seen[digest]}\n")
+            staged.append((pid_, 0, "ref " + seen[digest]))
+            continue
+        seen[digest] = pid_
+        staged.append((pid_, stage_image(src, pid_, inc), os.path.basename(src)))
+
     npub = sum(len(d["public"]) for d in out_days)
     npri = sum(len(d["private"]) for d in out_days)
     print(f"wrote {a.out}: {len(out_days)} days, {npub} public posts, {npri} private one-liners")
@@ -260,6 +352,15 @@ def main():
         print(f"  SKIP {s['id']} [{s['group']}] {s['reason']}: {s['text']!r}")
     pending = sum(1 for d in out_days for p in d["public"] if p.get("image_src"))
     print(f"  images pending download by the repo workflow: {pending}")
+    nperm = sum(1 for d in out_days for p in d["public"] if p["is_permalink"])
+    print(f"  permalinks: {nperm}/{npub} public posts")
+    if staged:
+        print(f"  STAGED {len(staged)} photo(s) in {inc}/ ({sum(s[1] for s in staged) // 1024} KB). Push each as"
+              f" data/incoming/<id>.txt together with data/groups.json:")
+        for pid_, n, what in staged:
+            print(f"    {pid_}.txt  {n:>6} B  <- {what}")
+    for e in unmatched:
+        print(f"  ! media entry matched no public post: {e.get('author')} {e.get('group_url')} {e.get('permalink')}")
     if held:
         print(f"  HELD BACK {len(held)} private post(s) with no summary. Add lines to private-summaries.json:")
         for r in held:
