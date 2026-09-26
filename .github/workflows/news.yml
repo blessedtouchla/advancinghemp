@@ -3,6 +3,9 @@ name: Refresh hemp news
 on:
   schedule:
     - cron: "17 13 * * *"   # daily, 13:17 UTC (6:17 AM PDT / 5:17 AM PST)
+  push:
+    branches: [main]
+    paths: ["scripts/fetch_news.py"]   # refresh right away when the feed list changes
   workflow_dispatch:
 
 permissions:

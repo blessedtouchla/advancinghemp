@@ -29,6 +29,15 @@
           return '<article class="card news-src"><h3><a href="' + esc(src.site) + '" target="_blank" rel="noopener">' + esc(src.name) + '</a></h3>' + stale + list + '</article>';
         }).join('');
       }
+      var orgBox = document.querySelector('[data-org-news]');
+      if (orgBox) {
+        var og = [];
+        (data.orgs || []).forEach(function (src) { (src.items || []).forEach(function (i) { og.push(Object.assign({}, i, { publisher: src.name, site: src.site })); }); });
+        og.sort(function (a, b) { return (b.date || '').localeCompare(a.date || ''); });
+        orgBox.innerHTML = og.length
+          ? '<ul class="news-list">' + og.slice(0, 12).map(function (i) { return item(i, false); }).join('') + '</ul>'
+          : '<p class="s">Headlines from hemp organizations will appear here after the next refresh.</p>';
+      }
       var teaser = document.querySelector('[data-news-teaser]');
       if (teaser) {
         var all = [];
@@ -38,7 +47,7 @@
       }
     })
     .catch(function () {
-      document.querySelectorAll('[data-news-full],[data-news-teaser]').forEach(function (el) {
+      document.querySelectorAll('[data-news-full],[data-news-teaser],[data-org-news]').forEach(function (el) {
         el.innerHTML = '<p>News is taking a break. Please check back soon.</p>';
       });
     });
