@@ -33,7 +33,10 @@
      "media": "photo",
      "link": "https://www.facebook.com/groups/2492877584288370/posts/4436085849967524",
      "is_permalink": true,
-     "time": "2026-09-25T16:50-07:00"
+     "time": "2026-09-25T16:50-07:00",
+     "image": "img/groups/2026-09-25/d7e6f6e60991.jpg",
+     "w": 400,
+     "h": 300
     },
     {
      "id": "74ebce08676e",
@@ -277,7 +280,10 @@
      "media": "photo",
      "link": "https://www.facebook.com/groups/HempcreteNetwork/posts/2654864974916754",
      "is_permalink": true,
-     "time": "2026-09-14T01:53-07:00"
+     "time": "2026-09-14T01:53-07:00",
+     "image": "img/groups/2026-09-14/e590ed435b32.jpg",
+     "w": 400,
+     "h": 300
     }
    ],
    "private": []
