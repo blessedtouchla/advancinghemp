@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T02:01:25+00:00",
+  "updated": "2026-09-26T17:08:48+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -51,11 +51,11 @@
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
         {
-          "title": "Hempcrete wall panels to debut in outback NSW sports centre - architectureanddesign.com.au",
+          "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - Architecture & Design",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObndBdEI4ekd1QlZ6VlA1T0lBWUYyUnBSanI4aUZwZ0NPQUJCVnA1V19tUXE2S2JhZV9kN1hBUVpha0tzbTdJVWM3VllWSFVWRWFlM19kR2Q0UFhZazJwNXljNVpQOHlLVXF6RF8zQzIzSmtJUVZYS3lPcWlLQU12QS1UTHV0bmNSa05NeUlDOHkxaFRVZC0xeVY1cURYa2VKT29Ma2g2R0diYzR1ODNsUQ?oc=5",
           "date": "2026-09-25T05:50:35+00:00",
           "summary": "",
-          "publisher": "architectureanddesign.com.au"
+          "publisher": "Architecture & Design"
         },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
@@ -86,7 +86,7 @@
           "publisher": "Lampoon Magazine"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -158,7 +158,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and the mods approved this post under Rule 2 before I put it up. I told them I'd keep it to the industrial side, so that's what this is. Japan has very little decortication…"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     }
   ],
@@ -184,7 +184,7 @@
           "date": "2026-04-29T17:03:08+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -208,7 +208,7 @@
           "date": "2026-08-25T20:09:56+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -232,7 +232,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -256,7 +256,7 @@
           "date": "2026-09-03T23:31:44+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -280,7 +280,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -304,7 +304,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -328,7 +328,7 @@
           "date": "2026-05-07T22:39:34+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -336,7 +336,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -360,7 +360,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -384,7 +384,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -408,7 +408,7 @@
           "date": "2026-09-17T09:49:42+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     },
     {
@@ -432,7 +432,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-09-26T02:01:25+00:00",
+      "fetched": "2026-09-26T17:08:48+00:00",
       "ok": true
     }
   ]
