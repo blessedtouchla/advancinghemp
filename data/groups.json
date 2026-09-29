@@ -1,7 +1,118 @@
 {
- "updated": "2026-09-28T07:48-07:00",
+ "updated": "2026-09-29T08:06-07:00",
  "window_days": 14,
  "days": [
+  {
+   "date": "2026-09-29",
+   "public": [
+    {
+     "id": "0aae29b95423",
+     "author": "Facts about Hemp",
+     "groups": [
+      {
+       "name": "Industrial Hemp Is Common Sense",
+       "url": "https://www.facebook.com/groups/2492877584288370/"
+      },
+      {
+       "name": "Hemp Education",
+       "url": "https://www.facebook.com/groups/LancashireJobsBoard"
+      }
+     ],
+     "excerpt": "History matters. Blame doesn’t build an industry. Industrial hemp has a complicated political and regulatory history. Understanding how past decisions affected the crop is important. But continually blaming governments, political parties or individual lawmakers for decisions made decades ago does…",
+     "media": "photo",
+     "link": "https://www.facebook.com/groups/2492877584288370/posts/4439605036282272",
+     "is_permalink": true,
+     "time": "2026-09-29T07:23-07:00"
+    },
+    {
+     "id": "7497c54af605",
+     "author": "Ramon Granados",
+     "groups": [
+      {
+       "name": "Industrial Hemp Academy",
+       "url": "https://www.facebook.com/groups/1392294576098522/"
+      },
+      {
+       "name": "Hempcrete building, development and discussion",
+       "url": "https://www.facebook.com/groups/652149055682690/"
+      }
+     ],
+     "excerpt": "Farming with Hemp. Farmers are sitting on the most profitable rotation crop of the century and most don't know it yet. Industrial hemp needs builders, not spectators, and farmers still running on soy, corn, or cotton as your rotation crop instead of hemp rotation cropping proves it. Top level…",
+     "media": "link",
+     "link": "https://www.facebook.com/groups/1392294576098522/posts/1456711456323500",
+     "is_permalink": true,
+     "time": "2026-09-29T06:06-07:00"
+    },
+    {
+     "id": "77b14004b535",
+     "author": "Shana Batdorff",
+     "groups": [
+      {
+       "name": "Hemp Momma",
+       "url": "https://www.facebook.com/groups/395029814965473/"
+      }
+     ],
+     "excerpt": "Thank you to Jordan Bethke with Bethke Farms in Raymond, South Dakota for sharing your hemp grain harvest video. It was awesome to hear you had a good crop. Planting date was May 6th. Harvest date was today (September 28th). Variety is Rak, a Verve Seeds variety distributed locally by Derrick…",
+     "media": "video",
+     "link": "https://www.facebook.com/groups/395029814965473/posts/1814166356385138",
+     "is_permalink": true,
+     "time": "2026-09-29T06:06-07:00"
+    }
+   ],
+   "private": []
+  },
+  {
+   "date": "2026-09-28",
+   "public": [
+    {
+     "id": "5b54a3c34abb",
+     "author": "Victoria Imtanes",
+     "groups": [
+      {
+       "name": "HempcreteNetwork.com",
+       "url": "https://www.facebook.com/groups/HempcreteNetwork/"
+      },
+      {
+       "name": "Hemp Education",
+       "url": "https://www.facebook.com/groups/LancashireJobsBoard"
+      },
+      {
+       "name": "Hemp Building Australia",
+       "url": "https://www.facebook.com/groups/568271623218736/"
+      },
+      {
+       "name": "Hempcrete building, development and discussion",
+       "url": "https://www.facebook.com/groups/652149055682690/"
+      },
+      {
+       "name": "Michigan Hempcrete & Plastic Innovations",
+       "url": "https://www.facebook.com/groups/260413469329951/"
+      }
+     ],
+     "excerpt": "This is a great quote by President George Washington! #HempFarmer #HempFarming #MountVernon #Virginia #FoundingFather #FirstPresident #GeorgeWashington #PresidentGeorgeWashington #FoundingFather @CammanderInChief #FatherOfOurCountry",
+     "media": "photo",
+     "link": "https://www.facebook.com/groups/HempcreteNetwork/posts/2669182366818348",
+     "is_permalink": true,
+     "time": "2026-09-28T20:06-07:00"
+    }
+   ],
+   "private": [
+    {
+     "id": "3d5f96a8f4fb",
+     "groups": [
+      {
+       "name": "Utah Hemp Growers Association",
+       "url": "https://www.facebook.com/groups/448586385680305/"
+      },
+      {
+       "name": "Togo Hemp Association",
+       "url": "https://www.facebook.com/groups/142962773764672/"
+      }
+     ],
+     "summary": "A shared historical quote about hemp cultivation was posted to the group feed."
+    }
+   ]
+  },
   {
    "date": "2026-09-27",
    "public": [
@@ -94,6 +205,21 @@
      "image": "img/groups/2026-09-27/e321e8852395.jpg",
      "w": 400,
      "h": 300
+    },
+    {
+     "id": "5eefcf31c2b7",
+     "author": "Segue Fischlin III",
+     "groups": [
+      {
+       "name": "HempcreteNetwork.com",
+       "url": "https://www.facebook.com/groups/HempcreteNetwork/"
+      }
+     ],
+     "excerpt": "Last chance for CLAY, then moving on to lime later this winter. Clay is easier to start with on the natural plaster learning curve for complete beginners",
+     "media": "link",
+     "link": "https://www.facebook.com/groups/HempcreteNetwork/posts/2666794230390495",
+     "is_permalink": true,
+     "time": "2026-09-27T08:06-07:00"
     },
     {
      "id": "745807fd49eb",
@@ -337,6 +463,10 @@
       {
        "name": "Hempcrete building, development and discussion",
        "url": "https://www.facebook.com/groups/652149055682690/"
+      },
+      {
+       "name": "Michigan Hempcrete & Plastic Innovations",
+       "url": "https://www.facebook.com/groups/260413469329951/"
       }
      ],
      "excerpt": "Everyone like to talk about #EV ‘s; however, the real future of automotive innovation was actually discovered 80 years ago. Henry Ford proved hemp could build cars. Modern innovators proved hemp can outperform EV materials. And today’s manufacturers are already using hemp composites inside the…",
