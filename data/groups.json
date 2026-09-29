@@ -22,7 +22,10 @@
      "media": "photo",
      "link": "https://www.facebook.com/groups/2492877584288370/posts/4439605036282272",
      "is_permalink": true,
-     "time": "2026-09-29T07:23-07:00"
+     "time": "2026-09-29T07:23-07:00",
+     "image": "img/groups/2026-09-29/0aae29b95423.jpg",
+     "w": 400,
+     "h": 300
     },
     {
      "id": "7497c54af605",
@@ -41,7 +44,10 @@
      "media": "link",
      "link": "https://www.facebook.com/groups/1392294576098522/posts/1456711456323500",
      "is_permalink": true,
-     "time": "2026-09-29T06:06-07:00"
+     "time": "2026-09-29T06:06-07:00",
+     "image": "img/groups/2026-09-29/7497c54af605.jpg",
+     "w": 400,
+     "h": 300
     },
     {
      "id": "77b14004b535",
@@ -56,7 +62,10 @@
      "media": "video",
      "link": "https://www.facebook.com/groups/395029814965473/posts/1814166356385138",
      "is_permalink": true,
-     "time": "2026-09-29T06:06-07:00"
+     "time": "2026-09-29T06:06-07:00",
+     "image": "img/groups/2026-09-29/77b14004b535.jpg",
+     "w": 400,
+     "h": 300
     }
    ],
    "private": []
@@ -93,7 +102,10 @@
      "media": "photo",
      "link": "https://www.facebook.com/groups/HempcreteNetwork/posts/2669182366818348",
      "is_permalink": true,
-     "time": "2026-09-28T20:06-07:00"
+     "time": "2026-09-28T20:06-07:00",
+     "image": "img/groups/2026-09-28/5b54a3c34abb.jpg",
+     "w": 400,
+     "h": 300
     }
    ],
    "private": [
@@ -219,7 +231,10 @@
      "media": "link",
      "link": "https://www.facebook.com/groups/HempcreteNetwork/posts/2666794230390495",
      "is_permalink": true,
-     "time": "2026-09-27T08:06-07:00"
+     "time": "2026-09-27T08:06-07:00",
+     "image": "img/groups/2026-09-27/5eefcf31c2b7.jpg",
+     "w": 400,
+     "h": 300
     },
     {
      "id": "745807fd49eb",
