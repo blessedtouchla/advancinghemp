@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T18:52:28+00:00",
+  "updated": "2026-10-02T18:24:09+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -51,11 +51,11 @@
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
         {
-          "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - Architecture & Design",
+          "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - architectureanddesign.com.au",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObndBdEI4ekd1QlZ6VlA1T0lBWUYyUnBSanI4aUZwZ0NPQUJCVnA1V19tUXE2S2JhZV9kN1hBUVpha0tzbTdJVWM3VllWSFVWRWFlM19kR2Q0UFhZazJwNXljNVpQOHlLVXF6RF8zQzIzSmtJUVZYS3lPcWlLQU12QS1UTHV0bmNSa05NeUlDOHkxaFRVZC0xeVY1cURYa2VKT29Ma2g2R0diYzR1ODNsUQ?oc=5",
           "date": "2026-09-25T05:50:35+00:00",
           "summary": "",
-          "publisher": "Architecture & Design"
+          "publisher": "architectureanddesign.com.au"
         },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
@@ -86,7 +86,7 @@
           "publisher": "news.sbs.co.kr"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -94,6 +94,12 @@
       "name": "Reddit r/hempcrete",
       "site": "https://www.reddit.com/r/hempcrete/",
       "items": [
+        {
+          "title": "Hemp Insulation for a 400-Year-Old Building",
+          "link": "https://www.reddit.com/r/Hempcrete/comments/1wvaqsn/hemp_insulation_for_a_400yearold_building/",
+          "date": "2026-10-01T20:43:12+00:00",
+          "summary": "I managed to fix some old footage of a job I worked on a couple of years ago and made this video."
+        },
         {
           "title": "Hempitecture Resell Market - Hemp Insulation",
           "link": "https://www.reddit.com/r/Hempcrete/comments/1wo8kjx/hempitecture_resell_market_hemp_insulation/",
@@ -117,15 +123,9 @@
           "link": "https://www.reddit.com/r/Hempcrete/comments/1vxbduo/is_it_possible_to_build_a_round_house_with/",
           "date": "2026-08-24T18:38:17+00:00",
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
-        },
-        {
-          "title": "What did you notice in this",
-          "link": "https://www.reddit.com/r/Hempcrete/comments/1vx0kcg/what_did_you_notice_in_this/",
-          "date": "2026-08-24T11:49:19+00:00",
-          "summary": ""
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -164,7 +164,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     }
   ],
@@ -190,7 +190,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -214,7 +214,7 @@
           "date": "2026-08-25T20:09:56+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -238,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -262,7 +262,7 @@
           "date": "2026-09-09T22:14:35+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -286,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -310,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -334,7 +334,7 @@
           "date": "2026-05-07T22:39:34+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -342,7 +342,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -366,7 +366,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -390,7 +390,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -414,7 +414,7 @@
           "date": "2026-09-21T07:45:31+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     },
     {
@@ -438,7 +438,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-01T18:52:28+00:00",
+      "fetched": "2026-10-02T18:24:09+00:00",
       "ok": true
     }
   ]
