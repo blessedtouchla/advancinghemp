@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T18:24:09+00:00",
+  "updated": "2026-10-03T17:15:21+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -43,7 +43,8 @@
         }
       ],
       "fetched": "2026-10-02T18:24:09+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "google-hempcrete",
@@ -51,11 +52,11 @@
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
         {
-          "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - architectureanddesign.com.au",
+          "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - Architecture & Design",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObndBdEI4ekd1QlZ6VlA1T0lBWUYyUnBSanI4aUZwZ0NPQUJCVnA1V19tUXE2S2JhZV9kN1hBUVpha0tzbTdJVWM3VllWSFVWRWFlM19kR2Q0UFhZazJwNXljNVpQOHlLVXF6RF8zQzIzSmtJUVZYS3lPcWlLQU12QS1UTHV0bmNSa05NeUlDOHkxaFRVZC0xeVY1cURYa2VKT29Ma2g2R0diYzR1ODNsUQ?oc=5",
           "date": "2026-09-25T05:50:35+00:00",
           "summary": "",
-          "publisher": "architectureanddesign.com.au"
+          "publisher": "Architecture & Design"
         },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
@@ -65,11 +66,11 @@
           "publisher": "NEWS10 ABC"
         },
         {
-          "title": "Massachusetts homeowner builds backyard apartment with hempcrete walls and state-backed loan - Yahoo",
+          "title": "Massachusetts homeowner builds backyard apartment with hempcrete walls and state-backed loan - yahoo.com",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFEycXdIZEZBZEtpXzVQYmdtZjdzcXl4SnBWYzdRV3hFY0NyWVREUFlRbzdFSkw0NndrZlZ0VzQ2dzhKUm1sZjNtSFJsN3YwU3VvU3VtRVR6bzJNa1Q0NkRyamhmQ1VrU25hUVpWOWp0LXNIUTVsMERlUWNSc3VaOE1iNHZkWHRjWkEtaDBidXFpdXMtam15Q0NTQUZudEZnSl9ZaTRB?oc=5",
           "date": "2026-09-12T07:00:00+00:00",
           "summary": "",
-          "publisher": "Yahoo"
+          "publisher": "yahoo.com"
         },
         {
           "title": "Exploring Hemp in Design: Yasmin Bawa abandons concrete for hempcrate - Lampoon Magazine",
@@ -86,7 +87,7 @@
           "publisher": "news.sbs.co.kr"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -125,7 +126,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -164,7 +165,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     }
   ],
@@ -190,7 +191,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -214,7 +215,7 @@
           "date": "2026-08-25T20:09:56+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -238,7 +239,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -262,7 +263,7 @@
           "date": "2026-09-09T22:14:35+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -286,7 +287,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -310,7 +311,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -334,7 +335,7 @@
           "date": "2026-05-07T22:39:34+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -342,7 +343,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -366,7 +367,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -390,7 +391,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -414,7 +415,7 @@
           "date": "2026-09-21T07:45:31+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     },
     {
@@ -438,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
+      "fetched": "2026-10-03T17:15:21+00:00",
       "ok": true
     }
   ]
