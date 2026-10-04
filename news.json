@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T17:15:21+00:00",
+  "updated": "2026-10-04T17:33:54+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,15 +42,21 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-02T18:24:09+00:00",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "fetched": "2026-10-04T17:33:54+00:00",
+      "ok": true
     },
     {
       "id": "google-hempcrete",
       "name": "Google News: “hempcrete”",
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
+        {
+          "title": "Museum Vonk is \"a testing ground for affordable bio-based construction\" - Dezeen",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBib2RUREF4T19fWGY2Ul9yLWlmLVZwWnpYSDNYZG1feER2STY0ZU9TRzJzT00tenRFeGV6bE4yYXMwdmpSMTZVTnFqYmlpUUVMd19OLWZwUkpBWmVYYzFJczVNTFFpcUpyeGkyTGlpQjZoNzNwR0J2SQ?oc=5",
+          "date": "2026-10-04T10:00:00+00:00",
+          "summary": "",
+          "publisher": "Dezeen"
+        },
         {
           "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - Architecture & Design",
           "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObndBdEI4ekd1QlZ6VlA1T0lBWUYyUnBSanI4aUZwZ0NPQUJCVnA1V19tUXE2S2JhZV9kN1hBUVpha0tzbTdJVWM3VllWSFVWRWFlM19kR2Q0UFhZazJwNXljNVpQOHlLVXF6RF8zQzIzSmtJUVZYS3lPcWlLQU12QS1UTHV0bmNSa05NeUlDOHkxaFRVZC0xeVY1cURYa2VKT29Ma2g2R0diYzR1ODNsUQ?oc=5",
@@ -59,35 +65,28 @@
           "publisher": "Architecture & Design"
         },
         {
-          "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
+          "title": "Great Barrington home using hempcrete as insulation - news10.com",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXZuNjQ4TGt0NVNVcWlwX0lLV2lDeTdhcXdxNUEtbFJ4S3lPYmh1dlpiaUcxV09YR2daenAzbl9scEVqTzhJQ0Y2M0NtOF9RZk8yaklSQ1lxR29Fdko2bGNwYXFISXpTMm91N3ByVGdqYjdnTkl4bmpBb19DSGFZcjFfUkQ1cU9RdWk0dGFiU19kR3VpaWfSAZsBQVVfeXFMTlJSNDJYTmthdTgwRjBMSHdQbmR1YUs2bml6V3JCSTBXUXpRT2J0VU1kbGtaSGh4SWtpQ2R6aUxFb2lyM2tWdzBNWWVlU0s0MEtBbGppbG5ScGh4R2VubnVCdTdjamFKcFFZdkVCZG1malhzaEpmbmdRNGJ2N1hET3pYTGNDUkNnMjcxNzdUd0hiU0w2eFRLREhJRFk?oc=5",
           "date": "2026-09-16T07:00:00+00:00",
           "summary": "",
-          "publisher": "NEWS10 ABC"
+          "publisher": "news10.com"
         },
         {
-          "title": "Massachusetts homeowner builds backyard apartment with hempcrete walls and state-backed loan - yahoo.com",
+          "title": "Massachusetts homeowner builds backyard apartment with hempcrete walls and state-backed loan - Yahoo",
           "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbFEycXdIZEZBZEtpXzVQYmdtZjdzcXl4SnBWYzdRV3hFY0NyWVREUFlRbzdFSkw0NndrZlZ0VzQ2dzhKUm1sZjNtSFJsN3YwU3VvU3VtRVR6bzJNa1Q0NkRyamhmQ1VrU25hUVpWOWp0LXNIUTVsMERlUWNSc3VaOE1iNHZkWHRjWkEtaDBidXFpdXMtam15Q0NTQUZudEZnSl9ZaTRB?oc=5",
           "date": "2026-09-12T07:00:00+00:00",
           "summary": "",
-          "publisher": "yahoo.com"
+          "publisher": "Yahoo"
         },
         {
-          "title": "Exploring Hemp in Design: Yasmin Bawa abandons concrete for hempcrate - Lampoon Magazine",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51MjhmVlNwd2k3M2dDME0zNWNid3g4Tk5jNE5PbGRIQzR5bkRuSk5CM25vTlBuelQteDNtTll5bnJYQ2d6SWlOQTV5Sy1MNEtGVGRMY2EtZFB3V3V0RjVB?oc=5",
-          "date": "2026-08-22T07:00:00+00:00",
+          "title": "Take a look inside an ADU being built with hempcrete and financed by a new state program - Berkshire eagle",
+          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXl2VzN6cmFvd0RHRDJwTm1NSDdacWJoZkRBZl8zTUd5ZnUyWVVXUTN4VmZqWmdnS1lUNV9CSEZzNngtcG5xMDdaUEkwYm5BbndETmdLWVNCVzJmZmJPdm0tQk9RM2ZvNEM2NGpZQ0xLUEF2MGl2Y050SGJyYXp0blRvU2JxdXhhWXo2SVNJSTJmV0xnQzlxcHhXbUQ4OGJuT1BjaEY5TkdmMVdVN2xsZTVraVNQa1I5d1pTTkgzTXdnd3lhbkRfSjJBZlJ3OVlRTDlmM0trYktWN25vaElWYVA1cWRWdw?oc=5",
+          "date": "2026-09-08T07:00:00+00:00",
           "summary": "",
-          "publisher": "Lampoon Magazine"
-        },
-        {
-          "title": "Even Absorbing Carbon? The Rapidly Growing Hempcrete Market - news.sbs.co.kr",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qOFlELUpDU2FXcWY5b0FTaWNXelpCbkdfdFVBVUpONk1nZVBycERoMzlxS3ctelhkcnkwRFFUMHdzNHVqbVB4cGtDM2haeEpZel84OURuWHFpU244SXdyN0VXUFBPeWdrZ3FlN3BB0gFmQVVfeXFMTWZDaUJuSW9Ud0pjU0RzemZYNDRtLTVvX2ZURXRNaGs3YTVLVEpSeXRWQWgyQjVDN3l0UXllZWlTTGxNbTlFNTJJX0ZIRExka2ZER21OcTNnbUFhUVpKdjVRZUdjYlFB?oc=5",
-          "date": "2026-08-21T07:00:00+00:00",
-          "summary": "",
-          "publisher": "news.sbs.co.kr"
+          "publisher": "Berkshire eagle"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -126,7 +125,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -165,7 +164,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     }
   ],
@@ -191,7 +190,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -215,7 +214,7 @@
           "date": "2026-08-25T20:09:56+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -239,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -263,7 +262,7 @@
           "date": "2026-09-09T22:14:35+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -287,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -311,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -335,7 +334,7 @@
           "date": "2026-05-07T22:39:34+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -343,7 +342,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -367,7 +366,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -391,7 +390,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -400,7 +399,7 @@
       "site": "https://hemptoday.net/",
       "items": [
         {
-          "title": "Senators invoke hemp loophole in call for criminal probe of Chinese cannabis networks",
+          "title": "U.S. Senators invoke hemp loophole in call for criminal probe of Chinese cannabis networks",
           "link": "https://hemptoday.net/senators-invoke-hemp-loophole-in-call-for-doj-probe-of-chinese-cannabis-networks/",
           "date": "2026-10-01T08:36:08+00:00"
         },
@@ -415,7 +414,7 @@
           "date": "2026-09-21T07:45:31+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     },
     {
@@ -439,7 +438,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-03T17:15:21+00:00",
+      "fetched": "2026-10-04T17:33:54+00:00",
       "ok": true
     }
   ]
