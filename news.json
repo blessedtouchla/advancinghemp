@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T21:16:05+00:00",
+  "updated": "2026-10-06T18:54:16+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -51,9 +51,16 @@
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
         {
-          "title": "Museum Vonk is \"a testing ground\" for bio-based materials - Dezeen",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41MTFOTGtjN2RmbXQ5NmtXZml5dmFFR0ZnTE94T3AyN0hnN2YycGlJckJ2SndVdHU3ZWtVN3RoYzRuYnFzU3VjdWlBbzFVWHY1emo1ME1wdTEyMzRyYnAzd2NTVVM4dmJkaGYtNk94VTFtemFsX3JrQU5tT0FmUQ?oc=5",
-          "date": "2026-10-04T10:00:01+00:00",
+          "title": "Hemp construction gains place in EU strategy, but hurdles remain to wider use - HempToday",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaDM4RmdQNFoxdFhGd1FxVDBqcFcwTHRUY1k3Z2FRd1ZuVWF3RFlxX0owV3YxZ2hPSENjbW5ockRaWmNVQUw4d0ZMdFZMelhEY2U4NFZrWV9ocm81OTI1NjlsbVdSaDRCTFU1ZmNIa2hMQnpDTGZXNWhfWW9YRVp4RkxNaTRpTFBYcjlOWmZXdEhTTGV0Qzk2bEVhaFBySDg1?oc=5",
+          "date": "2026-10-05T14:26:22+00:00",
+          "summary": "",
+          "publisher": "HempToday"
+        },
+        {
+          "title": "Museum Vonk is \"a testing ground for affordable bio-based construction\" - Dezeen",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBib2RUREF4T19fWGY2Ul9yLWlmLVZwWnpYSDNYZG1feER2STY0ZU9TRzJzT00tenRFeGV6bE4yYXMwdmpSMTZVTnFqYmlpUUVMd19OLWZwUkpBWmVYYzFJczVNTFFpcUpyeGkyTGlpQjZoNzNwR0J2SQ?oc=5",
+          "date": "2026-10-04T10:00:00+00:00",
           "summary": "",
           "publisher": "Dezeen"
         },
@@ -77,16 +84,9 @@
           "date": "2026-09-12T07:00:00+00:00",
           "summary": "",
           "publisher": "Yahoo"
-        },
-        {
-          "title": "Take a look inside an ADU being built with hempcrete and financed by a new state program - Berkshire eagle",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXl2VzN6cmFvd0RHRDJwTm1NSDdacWJoZkRBZl8zTUd5ZnUyWVVXUTN4VmZqWmdnS1lUNV9CSEZzNngtcG5xMDdaUEkwYm5BbndETmdLWVNCVzJmZmJPdm0tQk9RM2ZvNEM2NGpZQ0xLUEF2MGl2Y050SGJyYXp0blRvU2JxdXhhWXo2SVNJSTJmV0xnQzlxcHhXbUQ4OGJuT1BjaEY5TkdmMVdVN2xsZTVraVNQa1I5d1pTTkgzTXdnd3lhbkRfSjJBZlJ3OVlRTDlmM0trYktWN25vaElWYVA1cWRWdw?oc=5",
-          "date": "2026-09-08T07:00:00+00:00",
-          "summary": "",
-          "publisher": "Berkshire eagle"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -164,9 +164,8 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-04T17:33:54+00:00",
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "fetched": "2026-10-06T18:54:16+00:00",
+      "ok": true
     }
   ],
   "orgs": [
@@ -191,7 +190,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -199,6 +198,11 @@
       "name": "U.S. Hemp Building Association",
       "site": "https://www.ushempbuilding.org/",
       "items": [
+        {
+          "title": "Builder Spotlight: Wade Atteberry Grows It, Processes It, and Builds with It",
+          "link": "https://www.ushempbuilding.org/post/builder-spotlight-wade-atteberry-grows-it-processes-it-and-builds-with-it",
+          "date": "2026-10-06T15:01:29+00:00"
+        },
         {
           "title": "Builder Spotlight: Tom Rossmassler Is Building New England's Hemp Homes One Wall at a Time",
           "link": "https://www.ushempbuilding.org/post/builder-spotlight-tom-rossmassler-is-building-new-england-s-hemp-homes-one-wall-at-a-time",
@@ -208,14 +212,9 @@
           "title": "A Hundred Addresses",
           "link": "https://www.ushempbuilding.org/post/a-hundred-addresses",
           "date": "2026-08-31T15:46:33+00:00"
-        },
-        {
-          "title": "We Won the Code. We Have Not Won the Loan.",
-          "link": "https://www.ushempbuilding.org/post/we-won-the-code-we-have-not-won-the-loan",
-          "date": "2026-08-25T20:09:56+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -239,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -263,7 +262,7 @@
           "date": "2026-09-09T22:14:35+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -287,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -311,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -320,22 +319,22 @@
       "site": "https://indhemp.com/",
       "items": [
         {
-          "title": "IND HEMP Refined Hemp Seed Oil and Premium Cottonized Hemp Fiber for Personal, Body, and Baby Care",
-          "link": "https://indhemp.com/ind-hemp-refined-hemp-seed-oil-and-premium-cottonized-hemp-fiber-for-personal-body-and-baby-care/",
-          "date": "2026-06-29T16:18:49+00:00"
-        },
-        {
-          "title": "One Industry, Many Flags: IND HEMP at the 23rd EIHA Conference in Poznań",
-          "link": "https://indhemp.com/one-industry-many-flags-ind-hemp-at-the-23rd-eiha-conference-in-poznan/",
-          "date": "2026-06-24T15:33:53+00:00"
+          "title": "IND HEMP Is Making American Hemp Fiber ‘Ready to Spin’",
+          "link": "https://indhemp.com/ind-hemp-is-making-american-hemp-fiber-ready-to-spin/",
+          "date": "2026-10-06T15:29:02+00:00"
         },
         {
           "title": "Hemp in the Built Environment – A Symposium of Use and Applications",
           "link": "https://indhemp.com/hemp-in-the-built-environment-a-symposium-of-use-and-applications/",
-          "date": "2026-05-07T22:39:34+00:00"
+          "date": "2026-09-27T22:39:00+00:00"
+        },
+        {
+          "title": "One Industry, Many Flags: IND HEMP at the 23rd EIHA Conference in Poznań",
+          "link": "https://indhemp.com/one-industry-many-flags-ind-hemp-at-the-23rd-eiha-conference-in-poznan/",
+          "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -343,7 +342,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -367,7 +366,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -391,7 +390,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -415,7 +414,7 @@
           "date": "2026-09-23T07:08:26+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     },
     {
@@ -439,7 +438,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-05T21:16:05+00:00",
+      "fetched": "2026-10-06T18:54:16+00:00",
       "ok": true
     }
   ]
