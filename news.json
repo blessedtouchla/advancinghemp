@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T19:16:13+00:00",
+  "updated": "2026-10-09T18:48:24+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -43,7 +43,8 @@
         }
       ],
       "fetched": "2026-10-08T19:16:13+00:00",
-      "ok": true
+      "ok": false,
+      "error": "The read operation timed out"
     },
     {
       "id": "google-hempcrete",
@@ -51,18 +52,18 @@
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
         {
-          "title": "Hempcrete Gets a Strength Boost: Sulphate Additive Makes Carbon-Negative Building Material Tougher - Bioengineer.org",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbS01YVZFQjhwMnRNc19LcWZVU3ZJVGNuWnNNWlZUODM5ckZVLV83S1ZUX3VpN1g2UHhaa0pYT2w0bGd4cU83ZXNZY1dJRFdaUHVEd3lfY2dBUGJ6VFV5eWtZZU1tNHFGdVM0Uk42TlRteDZabll0Y3RYNWxWNjU4RnVmQXQtOWhRWURRTVkxZ21VMU1FWEp1NmRtMC1pM0w4aF9pMVo3YlRtZVpWMjBRNlpEb0dZdjdOVU9VNG1CTQ?oc=5",
-          "date": "2026-10-07T16:25:31+00:00",
-          "summary": "",
-          "publisher": "Bioengineer.org"
-        },
-        {
           "title": "Museum Vonk is \"a testing ground for affordable bio-based construction\" - Dezeen",
           "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBib2RUREF4T19fWGY2Ul9yLWlmLVZwWnpYSDNYZG1feER2STY0ZU9TRzJzT00tenRFeGV6bE4yYXMwdmpSMTZVTnFqYmlpUUVMd19OLWZwUkpBWmVYYzFJczVNTFFpcUpyeGkyTGlpQjZoNzNwR0J2SQ?oc=5",
           "date": "2026-10-04T10:00:00+00:00",
           "summary": "",
           "publisher": "Dezeen"
+        },
+        {
+          "title": "AJC Architects to build Australia’s first hempcrete sports centre in outback NSW - Architecture & Design",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObndBdEI4ekd1QlZ6VlA1T0lBWUYyUnBSanI4aUZwZ0NPQUJCVnA1V19tUXE2S2JhZV9kN1hBUVpha0tzbTdJVWM3VllWSFVWRWFlM19kR2Q0UFhZazJwNXljNVpQOHlLVXF6RF8zQzIzSmtJUVZYS3lPcWlLQU12QS1UTHV0bmNSa05NeUlDOHkxaFRVZC0xeVY1cURYa2VKT29Ma2g2R0diYzR1ODNsUQ?oc=5",
+          "date": "2026-09-24T07:00:00+00:00",
+          "summary": "",
+          "publisher": "Architecture & Design"
         },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
@@ -86,7 +87,7 @@
           "publisher": "Berkshire eagle"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -125,7 +126,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -164,7 +165,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     }
   ],
@@ -190,7 +191,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -214,7 +215,7 @@
           "date": "2026-08-31T15:46:33+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -238,7 +239,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -262,7 +263,7 @@
           "date": "2026-10-05T15:00:57+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -286,7 +287,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -310,7 +311,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -334,7 +335,7 @@
           "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -342,7 +343,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -366,7 +367,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -390,7 +391,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -414,7 +415,7 @@
           "date": "2026-10-01T08:36:08+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     },
     {
@@ -438,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-08T19:16:13+00:00",
+      "fetched": "2026-10-09T18:48:24+00:00",
       "ok": true
     }
   ]
