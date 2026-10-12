@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-11T18:03:50+00:00",
+  "updated": "2026-10-12T21:43:43+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -87,7 +87,8 @@
         }
       ],
       "fetched": "2026-10-11T18:03:50+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "r-hempcrete",
@@ -125,7 +126,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -133,6 +134,12 @@
       "name": "Reddit r/hemp",
       "site": "https://www.reddit.com/r/hemp/",
       "items": [
+        {
+          "title": "Looking to connect with a few hemp farmers 🌿",
+          "link": "https://www.reddit.com/r/hemp/comments/1x4cgvb/looking_to_connect_with_a_few_hemp_farmers/",
+          "date": "2026-10-12T20:08:02+00:00",
+          "summary": "Hey y’all, the owner of Pixie’s Pantry, a hemp and cannabis boutique in Mississippi. I’m trying to keep good-quality products affordable and make people feel welcomed. I’m looking to connect with a few more hemp…"
+        },
         {
           "title": "U.S. Hemp Roundtable Hits Capitol Hill with Strong Message: Regulate, Don’t Ban Hemp!",
           "link": "https://www.reddit.com/r/hemp/comments/1wtfso1/us_hemp_roundtable_hits_capitol_hill_with_strong/",
@@ -152,7 +159,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     }
   ],
@@ -178,7 +185,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -202,7 +209,7 @@
           "date": "2026-08-31T15:46:33+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -226,7 +233,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -250,7 +257,7 @@
           "date": "2026-10-05T15:00:57+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -274,7 +281,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -298,7 +305,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -322,7 +329,7 @@
           "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -330,7 +337,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -354,7 +361,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -378,7 +385,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -386,6 +393,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Argentina keeps hemp agency under state supervision amid unfinished licensing reforms",
+          "link": "https://hemptoday.net/argentina-keeps-hemp-agency-under-state-supervision-amid-unfinished-licensing-reforms/",
+          "date": "2026-10-12T08:58:44+00:00"
+        },
         {
           "title": "USDA report confirms U.S. hemp fiber dominates production volume, but lags in value",
           "link": "https://hemptoday.net/usda-report-confirms-u-s-hemp-fiber-dominates-production-volume-but-lags-in-value/",
@@ -395,14 +407,9 @@
           "title": "Hemp construction gains place in EU strategy, but hurdles remain to wider use",
           "link": "https://hemptoday.net/hemp-construction-gains-place-in-eu-strategy-but-hurdles-remain-to-wider-use/",
           "date": "2026-10-05T14:24:14+00:00"
-        },
-        {
-          "title": "U.S. Senators invoke hemp loophole in call for criminal probe of Chinese cannabis networks",
-          "link": "https://hemptoday.net/senators-invoke-hemp-loophole-in-call-for-doj-probe-of-chinese-cannabis-networks/",
-          "date": "2026-10-01T08:36:08+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     },
     {
@@ -426,7 +433,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-11T18:03:50+00:00",
+      "fetched": "2026-10-12T21:43:43+00:00",
       "ok": true
     }
   ]
