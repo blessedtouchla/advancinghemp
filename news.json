@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T16:30:58+00:00",
+  "updated": "2026-10-19T19:19:36+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -56,6 +56,13 @@
           "date": "2026-10-13T01:58:40+00:00",
           "summary": "",
           "publisher": "Architecture & Design"
+        },
+        {
+          "title": "Hempcrete Gets a Strength Boost: Sulphate Additive Makes Carbon-Negative Building Material Tougher - Bioengineer.org",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbS01YVZFQjhwMnRNc19LcWZVU3ZJVGNuWnNNWlZUODM5ckZVLV83S1ZUX3VpN1g2UHhaa0pYT2w0bGd4cU83ZXNZY1dJRFdaUHVEd3lfY2dBUGJ6VFV5eWtZZU1tNHFGdVM0Uk42TlRteDZabll0Y3RYNWxWNjU4RnVmQXQtOWhRWURRTVkxZ21VMU1FWEp1NmRtMC1pM0w4aF9pMVo3YlRtZVpWMjBRNlpEb0dZdjdOVU9VNG1CTQ?oc=5",
+          "date": "2026-10-07T16:25:31+00:00",
+          "summary": "",
+          "publisher": "Bioengineer.org"
         },
         {
           "title": "Museum Vonk is \"a testing ground for affordable bio-based construction\" - Dezeen",
@@ -77,16 +84,9 @@
           "date": "2026-09-12T07:00:00+00:00",
           "summary": "",
           "publisher": "Yahoo"
-        },
-        {
-          "title": "Take a look inside an ADU being built with hempcrete and financed by a new state program - Berkshire eagle",
-          "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQXl2VzN6cmFvd0RHRDJwTm1NSDdacWJoZkRBZl8zTUd5ZnUyWVVXUTN4VmZqWmdnS1lUNV9CSEZzNngtcG5xMDdaUEkwYm5BbndETmdLWVNCVzJmZmJPdm0tQk9RM2ZvNEM2NGpZQ0xLUEF2MGl2Y050SGJyYXp0blRvU2JxdXhhWXo2SVNJSTJmV0xnQzlxcHhXbUQ4OGJuT1BjaEY5TkdmMVdVN2xsZTVraVNQa1I5d1pTTkgzTXdnd3lhbkRfSjJBZlJ3OVlRTDlmM0trYktWN25vaElWYVA1cWRWdw?oc=5",
-          "date": "2026-09-08T07:00:00+00:00",
-          "summary": "",
-          "publisher": "Berkshire eagle"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -133,6 +133,12 @@
       "name": "Reddit r/hemp",
       "site": "https://www.reddit.com/r/hemp/",
       "items": [
+        {
+          "title": "HEMPIN.ORG",
+          "link": "https://www.reddit.com/r/hemp/comments/1x6knlb/hempinorg/",
+          "date": "2026-10-15T12:45:00+00:00",
+          "summary": "im building Hempin.org to get all hemp stakeholders around the world in one place and start trading and elevating the industry together"
+        },
         {
           "title": "Looking to connect with a few hemp farmers 🌿",
           "link": "https://www.reddit.com/r/hemp/comments/1x4cf8p/looking_to_connect_with_a_few_hemp_farmers/",
@@ -158,9 +164,8 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-16T17:23:10+00:00",
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "fetched": "2026-10-19T19:19:36+00:00",
+      "ok": true
     }
   ],
   "orgs": [
@@ -185,7 +190,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -209,7 +214,7 @@
           "date": "2026-09-18T18:10:51+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -233,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -257,7 +262,7 @@
           "date": "2026-10-05T15:00:57+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -281,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -305,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -329,7 +334,7 @@
           "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -337,7 +342,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -361,7 +366,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -385,7 +390,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     },
     {
@@ -410,7 +415,8 @@
         }
       ],
       "fetched": "2026-10-18T16:30:58+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "id": "house-ag",
@@ -433,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
+      "fetched": "2026-10-19T19:19:36+00:00",
       "ok": true
     }
   ]
