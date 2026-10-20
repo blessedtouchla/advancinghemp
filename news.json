@@ -1,11 +1,18 @@
 {
-  "updated": "2026-10-19T19:19:36+00:00",
+  "updated": "2026-10-20T17:57:49+00:00",
   "sources": [
     {
       "id": "hempsupporter",
       "name": "Hemp Supporter",
       "site": "https://hempsupporter.com/",
       "items": [
+        {
+          "title": "In Loving Memory of Joy Beckerman",
+          "link": "https://hempsupporter.com/news/in-loving-memory-of-joy-beckerman/",
+          "date": "2026-10-20T14:49:11+00:00",
+          "summary": "The hemp industry has lost one of its greatest champions, and the U.S. Hemp Roundtable has lost a treasured leader, colleague, and friend. For more than three decades, Joy Beckerman ...",
+          "publisher": null
+        },
         {
           "title": "U.S. Hemp Roundtable Hits Capitol Hill with Strong Message: Regulate, Don’t Ban Hemp!",
           "link": "https://hempsupporter.com/news/u-s-hemp-roundtable-takes-regulatory-message-to-the-hill/",
@@ -33,16 +40,9 @@
           "date": "2026-08-03T20:25:03+00:00",
           "summary": "Today, Senator Ted Budd announced that he intends to offer an amendment to the Continuing Resolution (CR) that would remove the temporary extension protecting the hemp industry from the federal ...",
           "publisher": null
-        },
-        {
-          "title": "Senate Funding Bill Includes Temporary Extension for Hemp",
-          "link": "https://hempsupporter.com/news/senate-funding-bill-includes-temporary-extension-for-hemp/",
-          "date": "2026-08-02T20:47:03+00:00",
-          "summary": "Today, Senate leaders released a continuing resolution (CR) to keep government operating that includes some great news: if passed, the moratorium on the hemp ban would be extended from November 12 ...",
-          "publisher": null
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -53,7 +53,7 @@
         {
           "title": "Hempcrete Australia: fire and thermal credentials proven - Architecture & Design",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHl2UGpZNkFvazhXbk1aZkRURXV0LUZFTFhDU1Z6N2ZFa0g4cXFPRWljbEZMRjJUYTRZcHRoSEVhdnR4MEQ1SHZhcEdHMFpvNWliZ3lCNWdsNjczV0pNTjhwSmN0QkNnT1AyZUY2ZHdpY0FZWEU4WHlJSzRTdXZDSmh4NFRxdXYyQUxvTG9leHNiUXY0ZkxVMFhlZmlNb1RCZDBFUFF2YmFxbHFNeWpJcVFGaFo2em1WRk03X0RfeDFBZFcy?oc=5",
-          "date": "2026-10-13T01:58:40+00:00",
+          "date": "2026-10-12T07:00:00+00:00",
           "summary": "",
           "publisher": "Architecture & Design"
         },
@@ -86,7 +86,7 @@
           "publisher": "Yahoo"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -164,7 +164,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     }
   ],
@@ -190,7 +190,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -198,6 +198,11 @@
       "name": "U.S. Hemp Building Association",
       "site": "https://www.ushempbuilding.org/",
       "items": [
+        {
+          "title": "Builder Spotlight: Chrissy Backman Didn't Reinvent the Wall. She Built a Better One.",
+          "link": "https://www.ushempbuilding.org/post/builder-spotlight-chrissy-backman-didn-t-reinvent-the-wall-she-built-a-better-one",
+          "date": "2026-10-20T05:00:00+00:00"
+        },
         {
           "title": "Louisiana Hemp, Louisiana Walls",
           "link": "https://www.ushempbuilding.org/post/louisiana-hemp-louisiana-walls",
@@ -207,14 +212,9 @@
           "title": "Builder Spotlight: Wade Atteberry Grows It, Processes It, and Builds with It",
           "link": "https://www.ushempbuilding.org/post/builder-spotlight-wade-atteberry-grows-it-processes-it-and-builds-with-it",
           "date": "2026-10-06T15:01:29+00:00"
-        },
-        {
-          "title": "Builder Spotlight: Tom Rossmassler Is Building New England's Hemp Homes One Wall at a Time",
-          "link": "https://www.ushempbuilding.org/post/builder-spotlight-tom-rossmassler-is-building-new-england-s-hemp-homes-one-wall-at-a-time",
-          "date": "2026-09-18T18:10:51+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -238,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -262,7 +262,7 @@
           "date": "2026-10-05T15:00:57+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -286,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -310,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -334,7 +334,7 @@
           "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -342,7 +342,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -366,7 +366,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -390,7 +390,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     },
     {
@@ -398,6 +398,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Uganda’s new hemp and medical cannabis cooperative aims to organize farmers, investors",
+          "link": "https://hemptoday.net/ugandas-new-hemp-and-medical-cannabis-cooperative-aims-to-organize-farmers-investors/",
+          "date": "2026-10-19T10:25:49+00:00"
+        },
         {
           "title": "Argentina keeps hemp agency under state supervision amid unfinished licensing reforms",
           "link": "https://hemptoday.net/argentina-keeps-hemp-agency-under-state-supervision-amid-unfinished-licensing-reforms/",
@@ -407,16 +412,10 @@
           "title": "USDA report confirms U.S. hemp fiber dominates production volume, but lags in value",
           "link": "https://hemptoday.net/usda-report-confirms-u-s-hemp-fiber-dominates-production-volume-but-lags-in-value/",
           "date": "2026-10-08T10:10:28+00:00"
-        },
-        {
-          "title": "Hemp construction gains place in EU strategy, but hurdles remain to wider use",
-          "link": "https://hemptoday.net/hemp-construction-gains-place-in-eu-strategy-but-hurdles-remain-to-wider-use/",
-          "date": "2026-10-05T14:24:14+00:00"
         }
       ],
-      "fetched": "2026-10-18T16:30:58+00:00",
-      "ok": false,
-      "error": "HTTP Error 403: Forbidden"
+      "fetched": "2026-10-20T17:57:49+00:00",
+      "ok": true
     },
     {
       "id": "house-ag",
@@ -439,7 +438,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-19T19:19:36+00:00",
+      "fetched": "2026-10-20T17:57:49+00:00",
       "ok": true
     }
   ]
