@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-21T18:01:22+00:00",
+  "updated": "2026-10-22T17:58:17+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -86,7 +86,7 @@
           "publisher": "NEWS10 ABC"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -94,6 +94,12 @@
       "name": "Reddit r/hempcrete",
       "site": "https://www.reddit.com/r/hempcrete/",
       "items": [
+        {
+          "title": "DIY precast blocks?",
+          "link": "https://www.reddit.com/r/Hempcrete/comments/1xcmz9b/diy_precast_blocks/",
+          "date": "2026-10-22T16:15:30+00:00",
+          "summary": "Has anyone gone the DIY route to fabricate your own precast hempcrete blocks? I’d like to try an 12-16” thick block (Canadian climate) but unsure what type of fabrication is best suited to heavy use while casting…"
+        },
         {
           "title": "Hemp Insulation for a 400-Year-Old Building",
           "link": "https://www.reddit.com/r/Hempcrete/comments/1wvaqsn/hemp_insulation_for_a_400yearold_building/",
@@ -117,15 +123,9 @@
           "link": "https://www.reddit.com/r/Hempcrete/comments/1w2att9/in_japan_the_lime_is_the_easy_part_its_the_hurd/",
           "date": "2026-08-30T07:26:47+00:00",
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
-        },
-        {
-          "title": "Is it possible to build a round house with hempcrete?",
-          "link": "https://www.reddit.com/r/Hempcrete/comments/1vxbduo/is_it_possible_to_build_a_round_house_with/",
-          "date": "2026-08-24T18:38:17+00:00",
-          "summary": "I've been learning about hempcrete and find myself wondering if I could make my dream house with it. I would like it to be as round as possible, with a big stove in the center."
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -164,7 +164,7 @@
           "summary": ""
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     }
   ],
@@ -190,7 +190,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -214,7 +214,7 @@
           "date": "2026-10-06T15:01:29+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -238,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -262,7 +262,7 @@
           "date": "2026-10-05T15:00:57+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -286,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -310,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -334,7 +334,7 @@
           "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -342,7 +342,7 @@
       "name": "Industrial Hemp International",
       "site": "https://industrialhempinternational.com/",
       "items": [],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -366,7 +366,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -390,7 +390,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -414,7 +414,7 @@
           "date": "2026-10-08T10:10:28+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     },
     {
@@ -438,7 +438,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-21T18:01:22+00:00",
+      "fetched": "2026-10-22T17:58:17+00:00",
       "ok": true
     }
   ]
