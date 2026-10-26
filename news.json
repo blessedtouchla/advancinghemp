@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T17:02:49+00:00",
+  "updated": "2026-10-26T19:17:01+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -58,7 +58,7 @@
           "publisher": "The Times of India"
         },
         {
-          "title": "Hempcrete's thermal and fire credentials drive residential adoption across New South Wales - Architecture & Design",
+          "title": "Hempcrete Australia: fire and thermal credentials proven - Architecture & Design",
           "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOHl2UGpZNkFvazhXbk1aZkRURXV0LUZFTFhDU1Z6N2ZFa0g4cXFPRWljbEZMRjJUYTRZcHRoSEVhdnR4MEQ1SHZhcEdHMFpvNWliZ3lCNWdsNjczV0pNTjhwSmN0QkNnT1AyZUY2ZHdpY0FZWEU4WHlJSzRTdXZDSmh4NFRxdXYyQUxvTG9leHNiUXY0ZkxVMFhlZmlNb1RCZDBFUFF2YmFxbHFNeWpJcVFGaFo2em1WRk03X0RfeDFBZFcy?oc=5",
           "date": "2026-10-12T07:00:00+00:00",
           "summary": "",
@@ -86,7 +86,7 @@
           "publisher": "NEWS10 ABC"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -165,7 +165,8 @@
         }
       ],
       "fetched": "2026-10-25T17:02:49+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "orgs": [
@@ -190,7 +191,7 @@
           "date": "2026-05-13T17:11:48+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -214,7 +215,7 @@
           "date": "2026-10-06T15:01:29+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -238,7 +239,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -262,7 +263,7 @@
           "date": "2026-10-05T15:00:57+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -286,7 +287,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -310,7 +311,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -334,7 +335,7 @@
           "date": "2026-06-30T15:33:53+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -367,7 +368,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -391,7 +392,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -399,6 +400,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Two French hemp projects aim to expand fiber processing for textiles and construction",
+          "link": "https://hemptoday.net/two-french-hemp-projects-aim-to-expand-fiber-processing-for-textiles-and-construction/",
+          "date": "2026-10-26T09:38:21+00:00"
+        },
         {
           "title": "Uganda’s new hemp and medical cannabis cooperative aims to organize farmers, investors",
           "link": "https://hemptoday.net/ugandas-new-hemp-and-medical-cannabis-cooperative-aims-to-organize-farmers-investors/",
@@ -408,14 +414,9 @@
           "title": "Argentina keeps hemp agency under state supervision amid unfinished licensing reforms",
           "link": "https://hemptoday.net/argentina-keeps-hemp-agency-under-state-supervision-amid-unfinished-licensing-reforms/",
           "date": "2026-10-12T08:58:44+00:00"
-        },
-        {
-          "title": "USDA report confirms U.S. hemp fiber dominates production volume, but lags in value",
-          "link": "https://hemptoday.net/usda-report-confirms-u-s-hemp-fiber-dominates-production-volume-but-lags-in-value/",
-          "date": "2026-10-08T10:10:28+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     },
     {
@@ -439,7 +440,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-25T17:02:49+00:00",
+      "fetched": "2026-10-26T19:17:01+00:00",
       "ok": true
     }
   ]
