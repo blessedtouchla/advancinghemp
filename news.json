@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T18:56:36+00:00",
+  "updated": "2026-10-30T18:35:34+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -43,20 +43,14 @@
         }
       ],
       "fetched": "2026-10-29T18:56:36+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 504: Gateway Timeout"
     },
     {
       "id": "google-hempcrete",
       "name": "Google News: “hempcrete”",
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
-        {
-          "title": "Building less, giving back: Talina Edwards' vision for regenerative design - Architecture & Design",
-          "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzdIc0k0NVRIaEY0ZXBzOHJZM1ZkS2x6QnlxZXFJRjdfZ0hNUVVLdHVXSTVBbThGQ3lXU19rVlBmVmNBZV9sanVSSmVNNWhENFdMMUZMTkRiRHJFMkEzQ01PMzVvdHh1NUVqbFFONUJBRlkyQ3cxU0ZlWFczbzZ6bExFSnUyQWN3RnFRZUh1eWVRZnRCQnBDd1k3dkFyNHc?oc=5",
-          "date": "2026-10-26T20:47:08+00:00",
-          "summary": "",
-          "publisher": "Architecture & Design"
-        },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXZuNjQ4TGt0NVNVcWlwX0lLV2lDeTdhcXdxNUEtbFJ4S3lPYmh1dlpiaUcxV09YR2daenAzbl9scEVqTzhJQ0Y2M0NtOF9RZk8yaklSQ1lxR29Fdko2bGNwYXFISXpTMm91N3ByVGdqYjdnTkl4bmpBb19DSGFZcjFfUkQ1cU9RdWk0dGFiU19kR3VpaWfSAZsBQVVfeXFMTlJSNDJYTmthdTgwRjBMSHdQbmR1YUs2bml6V3JCSTBXUXpRT2J0VU1kbGtaSGh4SWtpQ2R6aUxFb2lyM2tWdzBNWWVlU0s0MEtBbGppbG5ScGh4R2VubnVCdTdjamFKcFFZdkVCZG1malhzaEpmbmdRNGJ2N1hET3pYTGNDUkNnMjcxNzdUd0hiU0w2eFRLREhJRFk?oc=5",
@@ -84,9 +78,16 @@
           "date": "2026-07-04T07:00:00+00:00",
           "summary": "",
           "publisher": "Dezeen"
+        },
+        {
+          "title": "Banned in the U.S. for over 80 years, a plant just got written into the building code as a wall that insulates ten times better than concrete and stores carbon for the life of the house - Autonocion.com",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZ1BmRUxhSkxzUFVXR2lkYmZXd29VTVpxZEtMNmNwUTFIc3pVMExCakpUTTJHTEo0VjhLYzNYQTF6MXAtd1l2MXhDREJJdnlLUXhHYVpLSzF1SnNmOVFLVEtB?oc=5",
+          "date": "2026-06-07T07:00:00+00:00",
+          "summary": "",
+          "publisher": "Autonocion.com"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -125,7 +126,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -156,15 +157,9 @@
           "link": "https://www.reddit.com/r/hemp/comments/1ws96fo/we_have_closed_our_nc_hemp_business_mih_farm/",
           "date": "2026-09-28T08:40:07+00:00",
           "summary": "The nail in the coffin was Square terminating our account on November 5th. We are a mom&pop crafter growing, extracting, formulating and selling hemp products at local farm markets since 2018. America has let us down.…"
-        },
-        {
-          "title": "Federal hemp rules threaten 225,000 jobs and $8.9 billion in wages",
-          "link": "https://www.reddit.com/r/hemp/comments/1wlj3uh/federal_hemp_rules_threaten_225000_jobs_and_89/",
-          "date": "2026-09-20T14:52:04+00:00",
-          "summary": ""
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     }
   ],
@@ -190,7 +185,7 @@
           "date": "2026-07-21T15:45:14+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -214,7 +209,7 @@
           "date": "2026-10-06T15:01:29+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -238,7 +233,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -262,7 +257,7 @@
           "date": "2026-10-08T03:41:54+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -286,7 +281,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -310,7 +305,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -334,7 +329,7 @@
           "date": "2026-09-27T22:39:00+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -367,7 +362,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -391,7 +386,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -415,7 +410,7 @@
           "date": "2026-10-19T10:25:49+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     },
     {
@@ -439,7 +434,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-29T18:56:36+00:00",
+      "fetched": "2026-10-30T18:35:34+00:00",
       "ok": true
     }
   ]
