@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T17:42:29+00:00",
+  "updated": "2026-11-01T18:25:08+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -50,6 +50,27 @@
       "name": "Google News: “hempcrete”",
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
+        {
+          "title": "Iceland’s Biobuilding Cabin Uses Hempcrete Grown at Sandhóll to Test Local Materials - freeyork",
+          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNkt1dFk5ektnenhMVUkzZHNkU2RnbFF0emtjNVdZeUFJeFRHcHotcFk4WkFPZUFxNUhmN2FEV01vcFdFMDMxV2RrdnZ4UE1ETVlJQlF5R0xLN1dsbW1ZQVlOdWtCUG1fZWJjbF9wZDJlLUpubF80cHMtU095OWVpN1kyYmQzc2R6b2NRdlBR?oc=5",
+          "date": "2026-11-01T16:55:20+00:00",
+          "summary": "",
+          "publisher": "freeyork"
+        },
+        {
+          "title": "A hempcrete cabin in Iceland is a ‘house for the soul’ - Wallpaper*",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5",
+          "date": "2026-11-01T08:00:00+00:00",
+          "summary": "",
+          "publisher": "Wallpaper*"
+        },
+        {
+          "title": "Hemp walls go mainstream in the US: hempcrete is now in the residential building code, with no custom engineering needed - Futura, le média qui explore le monde",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXhXZEtaV25KZkg4M0ZmM3RzWElzOWdEWlJfQjFMTE1yeFR5UXRZWnlieEZEbmtjaHg5djZKcWdpampVTVBlQi01N0hJZEczMEk1SHdQTkF2bUhGYVFDb1VVRU9Eckk3R1FkbThLcHlNNTVjV0lwaHA4c0dEV2RqZk9fYUxSRi03Z1NxbkxVUWFCOC1hbUhXMS1CYm1tZlRnT1lTVnNOUVBfdllsZlFEMkNxVmZla2xlZ1ZlcjEwdXVWWWpwT0laWXZFMGhwTDRhR05makdndUs0RjNNcDA2UUlfa3Z5SjZEQURQeEx0NlJwVTA?oc=5",
+          "date": "2026-11-01T00:16:46+00:00",
+          "summary": "",
+          "publisher": "Futura, le média qui explore le monde"
+        },
         {
           "title": "An Australian designer develops hempcrete tiles to recreate tree hollows and rocky crevices; shelters aim - The Times of India",
           "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNX2w0NkxKbTZpNE1SeFhkZnJPcWxsVGY1VEpYUUc5em9PcTRVbDktU1ZXZGFxSElxWTdjVVhTN2ZVdl9pLW85NzRCUnBPMWxveUZwc2U4Q3RGdXpFbWp3T3FlTUJWR1FySFA0b21sNm5sQldUeVpnTkJsMTFOX2g5eGJ0Z2tFVWFqMGVPZE1qalRLSUZ3RldtZ0htQ2ZldktyeEFCc1hTaW9sVXBYbkNJYVF6ak1pUmxJY1VTUHpMdkNMd2lDb0pYQnhfQUo0UWtFMjJSdklmMXNaSnFPTk1maUNuVXJIaS1GMHNuN0ZoS25valBXYzVjYjdBNkFRczFfLU96LWhHelZNSWJ2ekZpTnF0U2M4aU55RUdsNlhIcGE3TEpqeE9LcXpKT3JCeTVyaFRURFhNWlptYVZyWFNKUk04VkctT1d6bXQzZ05NbFZsLWdSeTRvcTdZOGVOdU1WWjZsRElScWgyV3NQLTBPUlpQNzROTk3SAfwCQVVfeXFMTm54WEp6dTk0M2c5WlcyeEpmRVMwWEd0dGF3NmllLXowdjdFbnd2ajlXektFdnJ6RXBYblVKcVBVTXczMkxFMF9JSGdobHY3NHBkLTA5cldOU0lQOHVXc0o2UU1OSWJMU1B3QXhKWGNFOG9tSk1nR0hYYUZPMGYtT1EzOEFCdndoY3lDQU03dVdSYlg1Z2VMcGl4X1pYZVUzdEprd3J6eVpLT211aXQtM05PaHFzNHIzR3o5ZXE0amlESm9aeV8xVk9iR01xandjRkFqQllTQTMxNFJiZG9jV3ByNl85MWdnelV2YWZNczE5dEdtYlducHNndkw5OXZ1ZGgza0NfUjVFY2N6dFJOQWdVbEEzVUQzRTcwQkJRak9yZmg1Q2ZwYVFxQ0VMaHdaNndQZFFBU1pDYjBDbll0MkRjVURaY0JnNGI4a2V4a2FWd1AwcW9KRG1xd3F6R09OeDhTUjJJZ25Jbnpfd3haWUdhajZiZVVSNWo0OXU?oc=5",
@@ -63,30 +84,9 @@
           "date": "2026-10-12T07:00:00+00:00",
           "summary": "",
           "publisher": "Architecture & Design"
-        },
-        {
-          "title": "Hempcrete Gets a Strength Boost: Sulphate Additive Makes Carbon-Negative Building Material Tougher - Bioengineer.org",
-          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbS01YVZFQjhwMnRNc19LcWZVU3ZJVGNuWnNNWlZUODM5ckZVLV83S1ZUX3VpN1g2UHhaa0pYT2w0bGd4cU83ZXNZY1dJRFdaUHVEd3lfY2dBUGJ6VFV5eWtZZU1tNHFGdVM0Uk42TlRteDZabll0Y3RYNWxWNjU4RnVmQXQtOWhRWURRTVkxZ21VMU1FWEp1NmRtMC1pM0w4aF9pMVo3YlRtZVpWMjBRNlpEb0dZdjdOVU9VNG1CTQ?oc=5",
-          "date": "2026-10-07T07:00:00+00:00",
-          "summary": "",
-          "publisher": "Bioengineer.org"
-        },
-        {
-          "title": "Museum Vonk is \"a testing ground\" for bio-based materials - Dezeen",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBib2RUREF4T19fWGY2Ul9yLWlmLVZwWnpYSDNYZG1feER2STY0ZU9TRzJzT00tenRFeGV6bE4yYXMwdmpSMTZVTnFqYmlpUUVMd19OLWZwUkpBWmVYYzFJczVNTFFpcUpyeGkyTGlpQjZoNzNwR0J2SQ?oc=5",
-          "date": "2026-10-04T07:00:00+00:00",
-          "summary": "",
-          "publisher": "Dezeen"
-        },
-        {
-          "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
-          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXZuNjQ4TGt0NVNVcWlwX0lLV2lDeTdhcXdxNUEtbFJ4S3lPYmh1dlpiaUcxV09YR2daenAzbl9scEVqTzhJQ0Y2M0NtOF9RZk8yaklSQ1lxR29Fdko2bGNwYXFISXpTMm91N3ByVGdqYjdnTkl4bmpBb19DSGFZcjFfUkQ1cU9RdWk0dGFiU19kR3VpaWfSAZsBQVVfeXFMTlJSNDJYTmthdTgwRjBMSHdQbmR1YUs2bml6V3JCSTBXUXpRT2J0VU1kbGtaSGh4SWtpQ2R6aUxFb2lyM2tWdzBNWWVlU0s0MEtBbGppbG5ScGh4R2VubnVCdTdjamFKcFFZdkVCZG1malhzaEpmbmdRNGJ2N1hET3pYTGNDUkNnMjcxNzdUd0hiU0w2eFRLREhJRFk?oc=5",
-          "date": "2026-09-16T07:00:00+00:00",
-          "summary": "",
-          "publisher": "NEWS10 ABC"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -158,7 +158,7 @@
           "summary": "The nail in the coffin was Square terminating our account on November 5th. We are a mom&pop crafter growing, extracting, formulating and selling hemp products at local farm markets since 2018. America has let us down.…"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     }
   ],
@@ -184,7 +184,7 @@
           "date": "2026-07-21T15:45:14+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -208,7 +208,7 @@
           "date": "2026-10-06T15:01:29+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -232,7 +232,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -256,7 +256,7 @@
           "date": "2026-10-08T03:41:54+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -280,7 +280,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -304,7 +304,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -328,7 +328,7 @@
           "date": "2026-09-27T22:39:00+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -361,7 +361,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -385,7 +385,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -409,7 +409,7 @@
           "date": "2026-10-19T10:25:49+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     },
     {
@@ -433,7 +433,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-10-31T17:42:29+00:00",
+      "fetched": "2026-11-01T18:25:08+00:00",
       "ok": true
     }
   ]
