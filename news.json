@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-02T22:18:33+00:00",
+  "updated": "2026-11-03T20:05:55+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -86,7 +86,7 @@
           "publisher": "Architecture & Design"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -159,7 +159,8 @@
         }
       ],
       "fetched": "2026-11-02T22:18:33+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "orgs": [
@@ -184,7 +185,7 @@
           "date": "2026-07-21T15:45:14+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -192,6 +193,11 @@
       "name": "U.S. Hemp Building Association",
       "site": "https://www.ushempbuilding.org/",
       "items": [
+        {
+          "title": "Builder Spotlight: Zach Popp Turned a Moldy Bedroom Wall Into America's First Code Evaluated Hempcrete Panel",
+          "link": "https://www.ushempbuilding.org/post/builder-spotlight-zach-popp-turned-a-moldy-bedroom-wall-into-america-s-first-code-evaluated-hempcre",
+          "date": "2026-11-03T16:00:57+00:00"
+        },
         {
           "title": "Builder Spotlight: Chrissy Backman Didn't Reinvent the Wall. She Built a Better One.",
           "link": "https://www.ushempbuilding.org/post/builder-spotlight-chrissy-backman-didn-t-reinvent-the-wall-she-built-a-better-one",
@@ -201,14 +207,9 @@
           "title": "Louisiana Hemp, Louisiana Walls",
           "link": "https://www.ushempbuilding.org/post/louisiana-hemp-louisiana-walls",
           "date": "2026-10-14T15:21:31+00:00"
-        },
-        {
-          "title": "Builder Spotlight: Wade Atteberry Grows It, Processes It, and Builds with It",
-          "link": "https://www.ushempbuilding.org/post/builder-spotlight-wade-atteberry-grows-it-processes-it-and-builds-with-it",
-          "date": "2026-10-06T15:01:29+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -232,7 +233,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -256,7 +257,7 @@
           "date": "2026-10-08T03:41:54+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -280,7 +281,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -304,7 +305,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -312,6 +313,11 @@
       "name": "IND HEMP",
       "site": "https://indhemp.com/",
       "items": [
+        {
+          "title": "Hemp in Construction: A Regional Resource for Learning and Connection",
+          "link": "https://indhemp.com/hemp-in-construction-a-regional-resource-for-learning-and-connection/",
+          "date": "2026-11-03T19:14:13+00:00"
+        },
         {
           "title": "From Montana to Colombia and Back: Building Global Markets for American Hemp Fiber",
           "link": "https://indhemp.com/from-montana-to-colombia-and-back-building-global-markets-for-american-hemp-fiber/",
@@ -321,14 +327,9 @@
           "title": "IND HEMP Is Making American Hemp Fiber ‘Ready to Spin’",
           "link": "https://indhemp.com/ind-hemp-is-making-american-hemp-fiber-ready-to-spin/",
           "date": "2026-10-06T15:29:02+00:00"
-        },
-        {
-          "title": "Hemp in the Built Environment – A Symposium of Use and Applications",
-          "link": "https://indhemp.com/hemp-in-the-built-environment-a-symposium-of-use-and-applications/",
-          "date": "2026-09-27T22:39:00+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -361,7 +362,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -385,7 +386,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -393,6 +394,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Nepal hemp businesses await rules after Supreme Court orders government to act",
+          "link": "https://hemptoday.net/nepal-hemp-businesses-await-rules-after-supreme-court-orders-government-to-act/",
+          "date": "2026-11-03T11:54:32+00:00"
+        },
         {
           "title": "South African hemp growers get new seed program as province seeks commercial markets",
           "link": "https://hemptoday.net/south-african-hemp-growers-get-new-seed-program-as-province-seeks-commercial-markets/",
@@ -402,14 +408,9 @@
           "title": "Two French hemp projects aim to expand fiber processing for textiles and construction",
           "link": "https://hemptoday.net/two-french-hemp-projects-aim-to-expand-fiber-processing-for-textiles-and-construction/",
           "date": "2026-10-26T09:38:21+00:00"
-        },
-        {
-          "title": "Uganda’s new hemp and medical cannabis cooperative aims to organize farmers, investors",
-          "link": "https://hemptoday.net/ugandas-new-hemp-and-medical-cannabis-cooperative-aims-to-organize-farmers-investors/",
-          "date": "2026-10-19T10:25:49+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     },
     {
@@ -433,7 +434,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-02T22:18:33+00:00",
+      "fetched": "2026-11-03T20:05:55+00:00",
       "ok": true
     }
   ]
