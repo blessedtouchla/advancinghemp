@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-05T20:38:38+00:00",
+  "updated": "2026-11-06T19:56:43+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -86,7 +86,7 @@
           "publisher": "Dezeen"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -133,6 +133,12 @@
       "name": "Reddit r/hemp",
       "site": "https://www.reddit.com/r/hemp/",
       "items": [
+        {
+          "title": "JIHE in Tokyo, 13–14 November: hemp cultivation, textiles and building materials on the programme",
+          "link": "https://www.reddit.com/r/hemp/comments/1xp2ah3/jihe_in_tokyo_1314_november_hemp_cultivation/",
+          "date": "2026-11-06T03:09:45+00:00",
+          "summary": "I'm on the organising team for Japan International Hemp Expo. On Friday 13 November, growers and researchers will discuss hemp cultivation, seeds and breeding in Japan. The expo also covers textiles, building materials…"
+        },
         {
           "title": "How to approach the hemp processing industry as a beginner?",
           "link": "https://www.reddit.com/r/hemp/comments/1xnvglb/how_to_approach_the_hemp_processing_industry_as_a/",
@@ -156,15 +162,9 @@
           "link": "https://www.reddit.com/r/hemp/comments/1wtfso1/us_hemp_roundtable_hits_capitol_hill_with_strong/",
           "date": "2026-09-29T17:05:51+00:00",
           "summary": ""
-        },
-        {
-          "title": "We have closed our NC hemp business MiH Farm",
-          "link": "https://www.reddit.com/r/hemp/comments/1ws96fo/we_have_closed_our_nc_hemp_business_mih_farm/",
-          "date": "2026-09-28T08:40:07+00:00",
-          "summary": "The nail in the coffin was Square terminating our account on November 5th. We are a mom&pop crafter growing, extracting, formulating and selling hemp products at local farm markets since 2018. America has let us down.…"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     }
   ],
@@ -190,7 +190,7 @@
           "date": "2026-07-21T15:45:14+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -214,7 +214,7 @@
           "date": "2026-10-14T15:21:31+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -238,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -262,7 +262,7 @@
           "date": "2026-10-08T03:41:54+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -286,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -310,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -334,7 +334,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -367,7 +367,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -391,7 +391,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -415,7 +415,7 @@
           "date": "2026-10-28T07:48:46+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     },
     {
@@ -439,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-05T20:38:38+00:00",
+      "fetched": "2026-11-06T19:56:43+00:00",
       "ok": true
     }
   ]
