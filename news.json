@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-07T18:01:28+00:00",
+  "updated": "2026-11-08T18:20:32+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -51,11 +51,11 @@
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
         {
-          "title": "A hempcrete cabin in Iceland is a ‘house for the soul’ - Wallpaper*",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5",
-          "date": "2026-11-01T08:00:00+00:00",
+          "title": "Hemp walls go mainstream in the US: hempcrete is now in the residential building code, with no custom engineering needed - Futura, le média qui explore le monde",
+          "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNZXhXZEtaV25KZkg4M0ZmM3RzWElzOWdEWlJfQjFMTE1yeFR5UXRZWnlieEZEbmtjaHg5djZKcWdpampVTVBlQi01N0hJZEczMEk1SHdQTkF2bUhGYVFDb1VVRU9Eckk3R1FkbThLcHlNNTVjV0lwaHA4c0dEV2RqZk9fYUxSRi03Z1NxbkxVUWFCOC1hbUhXMS1CYm1tZlRnT1lTVnNOUVBfdllsZlFEMkNxVmZla2xlZ1ZlcjEwdXVWWWpwT0laWXZFMGhwTDRhR05makdndUs0RjNNcDA2UUlfa3Z5SjZEQURQeEx0NlJwVTA?oc=5",
+          "date": "2026-11-01T00:16:46+00:00",
           "summary": "",
-          "publisher": "Wallpaper*"
+          "publisher": "Futura, le média qui explore le monde"
         },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
@@ -86,7 +86,7 @@
           "publisher": "Dezeen"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -165,7 +165,8 @@
         }
       ],
       "fetched": "2026-11-07T18:01:28+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "orgs": [
@@ -190,7 +191,7 @@
           "date": "2026-07-21T15:45:14+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -214,7 +215,7 @@
           "date": "2026-10-14T15:21:31+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -238,7 +239,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -262,7 +263,7 @@
           "date": "2026-10-08T03:41:54+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -286,7 +287,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -310,7 +311,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -334,7 +335,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -367,7 +368,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -391,7 +392,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -415,7 +416,7 @@
           "date": "2026-10-28T07:48:46+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     },
     {
@@ -439,7 +440,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-07T18:01:28+00:00",
+      "fetched": "2026-11-08T18:20:32+00:00",
       "ok": true
     }
   ]
