@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T20:10:47+00:00",
+  "updated": "2026-11-12T20:47:26+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -50,13 +50,6 @@
       "name": "Google News: “hempcrete”",
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
-        {
-          "title": "A hempcrete cabin in Iceland is a ‘house for the soul’ - Wallpaper*",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5",
-          "date": "2026-11-01T07:00:00+00:00",
-          "summary": "",
-          "publisher": "Wallpaper*"
-        },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXZuNjQ4TGt0NVNVcWlwX0lLV2lDeTdhcXdxNUEtbFJ4S3lPYmh1dlpiaUcxV09YR2daenAzbl9scEVqTzhJQ0Y2M0NtOF9RZk8yaklSQ1lxR29Fdko2bGNwYXFISXpTMm91N3ByVGdqYjdnTkl4bmpBb19DSGFZcjFfUkQ1cU9RdWk0dGFiU19kR3VpaWfSAZsBQVVfeXFMTlJSNDJYTmthdTgwRjBMSHdQbmR1YUs2bml6V3JCSTBXUXpRT2J0VU1kbGtaSGh4SWtpQ2R6aUxFb2lyM2tWdzBNWWVlU0s0MEtBbGppbG5ScGh4R2VubnVCdTdjamFKcFFZdkVCZG1malhzaEpmbmdRNGJ2N1hET3pYTGNDUkNnMjcxNzdUd0hiU0w2eFRLREhJRFk?oc=5",
@@ -84,9 +77,16 @@
           "date": "2026-07-04T07:00:00+00:00",
           "summary": "",
           "publisher": "Dezeen"
+        },
+        {
+          "title": "Hempcrete Written Into US Building Code After Decades of Hemp Ban - Autonocion",
+          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZ1BmRUxhSkxzUFVXR2lkYmZXd29VTVpxZEtMNmNwUTFIc3pVMExCakpUTTJHTEo0VjhLYzNYQTF6MXAtd1l2MXhDREJJdnlLUXhHYVpLSzF1SnNmOVFLVEtB?oc=5",
+          "date": "2026-06-07T12:23:06+00:00",
+          "summary": "",
+          "publisher": "Autonocion"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -133,6 +133,12 @@
       "name": "Reddit r/hemp",
       "site": "https://www.reddit.com/r/hemp/",
       "items": [
+        {
+          "title": "undrdog reviews are all over the place, anyone here actually own one?",
+          "link": "https://www.reddit.com/r/hemp/comments/1xu5lmh/undrdog_reviews_are_all_over_the_place_anyone/",
+          "date": "2026-11-12T06:33:10+00:00",
+          "summary": "theres one in my cart right now and i keep closing the tab. the five star reviews are from people two days in and the bad ones are one line about the price. neither tells me how the cut sits on a normal build or how it…"
+        },
         {
           "title": "JIHE in Tokyo, 13–14 November: hemp cultivation, textiles and building materials on the programme",
           "link": "https://www.reddit.com/r/hemp/comments/1xp2ah3/jihe_in_tokyo_1314_november_hemp_cultivation/",
@@ -156,15 +162,9 @@
           "link": "https://www.reddit.com/r/hemp/comments/1x4cf8p/looking_to_connect_with_a_few_hemp_farmers/",
           "date": "2026-10-12T20:06:13+00:00",
           "summary": "Hey y’all, the owner of Pixie’s Pantry, a hemp and cannabis boutique in Mississippi. I’m trying to keep good-quality products affordable and make people feel welcomed. I’m looking to connect with a few more hemp…"
-        },
-        {
-          "title": "U.S. Hemp Roundtable Hits Capitol Hill with Strong Message: Regulate, Don’t Ban Hemp!",
-          "link": "https://www.reddit.com/r/hemp/comments/1wtfso1/us_hemp_roundtable_hits_capitol_hill_with_strong/",
-          "date": "2026-09-29T17:05:51+00:00",
-          "summary": ""
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     }
   ],
@@ -190,7 +190,7 @@
           "date": "2026-09-29T20:13:11+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -214,7 +214,7 @@
           "date": "2026-10-14T15:21:31+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -238,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -262,7 +262,7 @@
           "date": "2026-10-26T21:46:33+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -286,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -310,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -334,7 +334,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -367,7 +367,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -391,7 +391,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -399,6 +399,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Attempt to save intoxicating hemp drinks with ‘Goodness of Hemp’ plan draws criticism",
+          "link": "https://hemptoday.net/attempt-to-save-intoxicating-hemp-drinks-with-goodness-of-hemp-plan-draws-criticism/",
+          "date": "2026-11-11T20:19:00+00:00"
+        },
         {
           "title": "French hemp industry seeks political support to double acreage and expand markets",
           "link": "https://hemptoday.net/french-hemp-industry-seeks-political-support-to-double-acreage-and-expand-markets/",
@@ -408,14 +413,9 @@
           "title": "South Korean minister pledges hemp rules review to support commercial development",
           "link": "https://hemptoday.net/south-korean-minister-pledges-hemp-rules-review-to-support-commercial-development/",
           "date": "2026-11-05T12:56:15+00:00"
-        },
-        {
-          "title": "Nepal hemp businesses await rules after Supreme Court orders government to act",
-          "link": "https://hemptoday.net/nepal-hemp-businesses-await-rules-after-supreme-court-orders-government-to-act/",
-          "date": "2026-11-03T11:54:32+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     },
     {
@@ -439,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-11T20:10:47+00:00",
+      "fetched": "2026-11-12T20:47:26+00:00",
       "ok": true
     }
   ]
