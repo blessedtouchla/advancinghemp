@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-12T20:47:26+00:00",
+  "updated": "2026-11-13T20:28:32+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -86,7 +86,7 @@
           "publisher": "Autonocion"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -164,7 +164,7 @@
           "summary": "Hey y’all, the owner of Pixie’s Pantry, a hemp and cannabis boutique in Mississippi. I’m trying to keep good-quality products affordable and make people feel welcomed. I’m looking to connect with a few more hemp…"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     }
   ],
@@ -185,12 +185,12 @@
           "date": "2026-10-28T12:00:24+00:00"
         },
         {
-          "title": "New NIHC Industrial Hemp Market Guide Now Available Online",
-          "link": "https://nihcoa.com/new-nihc-industrial-hemp-market-guide-now-available-online/",
-          "date": "2026-09-29T20:13:11+00:00"
+          "title": "From Seed to Style, Summit Recap",
+          "link": "https://nihcoa.com/from-seed-to-style-summit-recap/",
+          "date": "2026-10-20T16:28:18+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -214,7 +214,7 @@
           "date": "2026-10-14T15:21:31+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -238,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -247,22 +247,22 @@
       "site": "https://www.hempbuildmag.com/",
       "items": [
         {
+          "title": "Beyond Hempcrete: Building Regional Manufacturing Economies Around Hemp",
+          "link": "https://www.hempbuildmag.com/home/osu-beyond-hempcrete-excerpt",
+          "date": "2026-11-13T19:02:02+00:00"
+        },
+        {
+          "title": "St. Louis Processor Tiger Fiber Files for Chapter 11 Bankruptcy",
+          "link": "https://www.hempbuildmag.com/home/iger-fiber-ch-11-bankruptcy",
+          "date": "2026-11-13T03:30:23+00:00"
+        },
+        {
           "title": "Montana’s Regional Resource for Hemp Construction",
           "link": "https://www.hempbuildmag.com/home/ind-hemp-symposium-2026",
           "date": "2026-11-10T02:40:24+00:00"
-        },
-        {
-          "title": "Hemp Build Podcast Ep. 9: Hemp vs. Fiberglass: What Natural Insulation Can Do for Your Home",
-          "link": "https://www.hempbuildmag.com/home/hempbuild-podcast-ep9-hempitecture",
-          "date": "2026-10-29T15:57:03+00:00"
-        },
-        {
-          "title": "Experiences of Hemp Home Living Rated in New Online Atlas",
-          "link": "https://www.hempbuildmag.com/home/atlas-reviews-hemp-house-living",
-          "date": "2026-10-26T21:46:33+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -286,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -310,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -334,7 +334,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -367,7 +367,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -391,7 +391,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -415,7 +415,7 @@
           "date": "2026-11-05T12:56:15+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     },
     {
@@ -439,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-12T20:47:26+00:00",
+      "fetched": "2026-11-13T20:28:32+00:00",
       "ok": true
     }
   ]
