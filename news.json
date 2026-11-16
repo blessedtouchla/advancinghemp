@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T19:22:01+00:00",
+  "updated": "2026-11-16T22:52:33+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -50,6 +50,13 @@
       "name": "Google News: “hempcrete”",
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
+        {
+          "title": "A hempcrete cabin in Iceland is a ‘house for the soul’ - Wallpaper*",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5",
+          "date": "2026-11-01T07:00:00+00:00",
+          "summary": "",
+          "publisher": "Wallpaper*"
+        },
         {
           "title": "Great Barrington home using hempcrete as insulation - NEWS10 ABC",
           "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUXZuNjQ4TGt0NVNVcWlwX0lLV2lDeTdhcXdxNUEtbFJ4S3lPYmh1dlpiaUcxV09YR2daenAzbl9scEVqTzhJQ0Y2M0NtOF9RZk8yaklSQ1lxR29Fdko2bGNwYXFISXpTMm91N3ByVGdqYjdnTkl4bmpBb19DSGFZcjFfUkQ1cU9RdWk0dGFiU19kR3VpaWfSAZsBQVVfeXFMTlJSNDJYTmthdTgwRjBMSHdQbmR1YUs2bml6V3JCSTBXUXpRT2J0VU1kbGtaSGh4SWtpQ2R6aUxFb2lyM2tWdzBNWWVlU0s0MEtBbGppbG5ScGh4R2VubnVCdTdjamFKcFFZdkVCZG1malhzaEpmbmdRNGJ2N1hET3pYTGNDUkNnMjcxNzdUd0hiU0w2eFRLREhJRFk?oc=5",
@@ -77,16 +84,9 @@
           "date": "2026-07-04T07:00:00+00:00",
           "summary": "",
           "publisher": "Dezeen"
-        },
-        {
-          "title": "Hempcrete Written Into US Building Code After Decades of Hemp Ban - Autonocion",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBsZ1BmRUxhSkxzUFVXR2lkYmZXd29VTVpxZEtMNmNwUTFIc3pVMExCakpUTTJHTEo0VjhLYzNYQTF6MXAtd1l2MXhDREJJdnlLUXhHYVpLSzF1SnNmOVFLVEtB?oc=5",
-          "date": "2026-06-07T12:23:06+00:00",
-          "summary": "",
-          "publisher": "Autonocion"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -125,7 +125,7 @@
           "summary": "I help organise JIHE, a hemp expo in Tokyo, and there's a building materials section in it, so I end up talking to most of the people attempting this here. The binder isn't the issue. Lime is lime and there's plenty of…"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -164,9 +164,8 @@
           "summary": "Hey y’all, the owner of Pixie’s Pantry, a hemp and cannabis boutique in Mississippi. I’m trying to keep good-quality products affordable and make people feel welcomed. I’m looking to connect with a few more hemp…"
         }
       ],
-      "fetched": "2026-11-13T20:28:32+00:00",
-      "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "fetched": "2026-11-16T22:52:33+00:00",
+      "ok": true
     }
   ],
   "orgs": [
@@ -191,7 +190,7 @@
           "date": "2026-10-20T16:28:18+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -199,6 +198,11 @@
       "name": "U.S. Hemp Building Association",
       "site": "https://www.ushempbuilding.org/",
       "items": [
+        {
+          "title": "Builder Spotlight: Keith and Katie Bien Financed It, Insured It, and Built It in Hemp",
+          "link": "https://www.ushempbuilding.org/post/builder-spotlight-keith-and-katie-bien-financed-it-insured-it-and-built-it-in-hemp",
+          "date": "2026-11-16T17:05:39+00:00"
+        },
         {
           "title": "Builder Spotlight: Zach Popp Turned a Moldy Bedroom Wall Into America's First Code Evaluated Hempcrete Panel",
           "link": "https://www.ushempbuilding.org/post/builder-spotlight-zach-popp-turned-a-moldy-bedroom-wall-into-america-s-first-code-evaluated-hempcre",
@@ -208,14 +212,9 @@
           "title": "Builder Spotlight: Chrissy Backman Didn't Reinvent the Wall. She Built a Better One.",
           "link": "https://www.ushempbuilding.org/post/builder-spotlight-chrissy-backman-didn-t-reinvent-the-wall-she-built-a-better-one",
           "date": "2026-10-20T05:00:00+00:00"
-        },
-        {
-          "title": "Louisiana Hemp, Louisiana Walls",
-          "link": "https://www.ushempbuilding.org/post/louisiana-hemp-louisiana-walls",
-          "date": "2026-10-14T15:21:31+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -239,7 +238,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -263,7 +262,7 @@
           "date": "2026-11-10T02:40:24+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -287,7 +286,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -311,7 +310,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -335,7 +334,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -368,7 +367,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -392,7 +391,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -400,6 +399,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Australian hemp body loses elected leadership amid internal dispute and weak finances",
+          "link": "https://hemptoday.net/australian-hemp-body-loses-elected-leadership-amid-internal-dispute-and-weak-finances/",
+          "date": "2026-11-16T10:13:04+00:00"
+        },
         {
           "title": "Attempt to save intoxicating hemp drinks with ‘Goodness of Hemp’ plan draws criticism",
           "link": "https://hemptoday.net/attempt-to-save-intoxicating-hemp-drinks-with-goodness-of-hemp-plan-draws-criticism/",
@@ -409,14 +413,9 @@
           "title": "French hemp industry seeks political support to double acreage and expand markets",
           "link": "https://hemptoday.net/french-hemp-industry-seeks-political-support-to-double-acreage-and-expand-markets/",
           "date": "2026-11-10T07:17:55+00:00"
-        },
-        {
-          "title": "South Korean minister pledges hemp rules review to support commercial development",
-          "link": "https://hemptoday.net/south-korean-minister-pledges-hemp-rules-review-to-support-commercial-development/",
-          "date": "2026-11-05T12:56:15+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     },
     {
@@ -440,7 +439,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-15T19:22:01+00:00",
+      "fetched": "2026-11-16T22:52:33+00:00",
       "ok": true
     }
   ]
