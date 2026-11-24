@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:48:51+00:00",
+  "updated": "2026-11-24T23:00:08+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -50,13 +50,6 @@
       "name": "Google News: “hempcrete”",
       "site": "https://news.google.com/search?q=hempcrete",
       "items": [
-        {
-          "title": "Hemp Concrete Manufacturing Plant Setup Cost in India - IMARC Group",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOelVrY2doYWhSb1dOLU9pUWlKeVRVQmZrbVJtaVo2dk1lNHZqdXd6NVFJeU9ha0YycFZvcVdwRm9uS1FLTFBZWWFXcWtCUk9SWkNYN21zc0VCYmZaaXdCQzJPQ2FRU3VGMzk5a040aExnNVJHcExKX1pXWldZT2poMm5ySmtyZUQzSUwtQ2pn?oc=5",
-          "date": "2026-11-23T10:45:33+00:00",
-          "summary": "",
-          "publisher": "IMARC Group"
-        },
         {
           "title": "Once Banned for Decades, This Building Material Returns to U.S. Homes With 15x Concrete’s Insulation and CO₂ Storage - The Daily Galaxy",
           "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQU2E1RlRtV1NPNEZ6a2NTT3VBako0VlR3aDlQQlpoYU1zWHlQRVJxd3dSM3kxSkdlSVBUc1I4NnQ3MVpHY2RySnFZd0FDUFl6ZzJGVzlNTnRNcThuckNQVVY4VG9DWWV5bVN4dExhWlZxSTZDUFAzY2xmS1RBaXJhY1l4Zw?oc=5",
@@ -84,9 +77,16 @@
           "date": "2026-08-18T07:00:00+00:00",
           "summary": "",
           "publisher": "MPR News"
+        },
+        {
+          "title": "'No-brainer': Homeowners ecstatic over first hempcrete house built in Jefferson county - Denver7",
+          "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONHhUeFBGdG5ZT3AtRm5paFpfeU5CM1QzN3hiRzRqb2ZZTFN4czRtWm14aVhBN0VKTTBuY0pYNFowTTdsZXZDMGdoamhaVU80eUdWR1pzU3o0cm5xdm16TUt6RDJsRE1VRHZ6RjFBM2xDNTN6Nk9BOC1iUlR6Rjk1UWFacTZxeThwOGhCZUI5R0hGcVI5clNSY3poc3Uzb2FMTzh3dHhJOWgtYXFHeV94dnpRM0dwRzVPekR2QXBGSUc?oc=5",
+          "date": "2026-08-18T07:00:00+00:00",
+          "summary": "",
+          "publisher": "Denver7"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -167,7 +167,7 @@
       ],
       "fetched": "2026-11-16T22:52:33+00:00",
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 429: Too Many Requests"
     }
   ],
   "orgs": [
@@ -177,6 +177,11 @@
       "site": "https://nihcoa.com/",
       "items": [
         {
+          "title": "HEMP GUARDRAILS ACT IS A STEP IN THE RIGHT DIRECTION",
+          "link": "https://nihcoa.com/hemp-guardrails-act-is-a-step-in-the-right-direction/",
+          "date": "2026-11-24T00:01:57+00:00"
+        },
+        {
           "title": "NIHC Signs Agreement to Advance U.S.–Thailand Industrial Hemp Cooperation",
           "link": "https://nihcoa.com/nihc-signs-agreement-to-advance-u-s-thailand-industrial-hemp-cooperation/",
           "date": "2026-11-19T20:45:20+00:00"
@@ -185,14 +190,9 @@
           "title": "India’s Industrial Hemp Market: Where Are the Opportunities for American Hemp?",
           "link": "https://nihcoa.com/indias-industrial-hemp-market-where-are-the-opportunities-for-american-hemp/",
           "date": "2026-10-29T16:53:21+00:00"
-        },
-        {
-          "title": "Hemp’s Next Chapter Depends on What We Do Together",
-          "link": "https://nihcoa.com/hemps-next-chapter-depends-on-what-we-do-together/",
-          "date": "2026-10-28T12:00:24+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -216,7 +216,7 @@
           "date": "2026-10-20T05:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -240,7 +240,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -264,7 +264,7 @@
           "date": "2026-11-10T02:40:24+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -288,7 +288,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -312,7 +312,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -336,7 +336,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -369,7 +369,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -393,7 +393,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -417,7 +417,7 @@
           "date": "2026-11-11T20:19:00+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     },
     {
@@ -441,7 +441,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-24T00:48:51+00:00",
+      "fetched": "2026-11-24T23:00:08+00:00",
       "ok": true
     }
   ]
