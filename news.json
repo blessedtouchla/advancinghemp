@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-25T22:29:27+00:00",
+  "updated": "2026-11-26T22:19:48+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -87,7 +87,8 @@
         }
       ],
       "fetched": "2026-11-25T22:29:27+00:00",
-      "ok": true
+      "ok": false,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "id": "r-hempcrete",
@@ -127,7 +128,7 @@
       ],
       "fetched": "2026-11-16T22:52:33+00:00",
       "ok": false,
-      "error": "HTTP Error 404: Not Found"
+      "error": "HTTP Error 429: Too Many Requests"
     },
     {
       "id": "r-hemp",
@@ -167,7 +168,7 @@
       ],
       "fetched": "2026-11-16T22:52:33+00:00",
       "ok": false,
-      "error": "HTTP Error 429: Too Many Requests"
+      "error": "HTTP Error 404: Not Found"
     }
   ],
   "orgs": [
@@ -192,7 +193,7 @@
           "date": "2026-10-29T16:53:21+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -216,7 +217,7 @@
           "date": "2026-11-03T16:00:57+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -240,7 +241,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -264,7 +265,7 @@
           "date": "2026-11-10T02:40:24+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -288,7 +289,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -312,7 +313,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -336,7 +337,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -369,7 +370,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -393,7 +394,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -401,6 +402,11 @@
       "name": "HempToday",
       "site": "https://hemptoday.net/",
       "items": [
+        {
+          "title": "Sweden backs $15 million in hemp projects to turn stalks into textiles and walls",
+          "link": "https://hemptoday.net/sweden-backs-15-million-in-hemp-projects-to-turn-stalks-into-textiles-and-walls/",
+          "date": "2026-11-26T13:49:00+00:00"
+        },
         {
           "title": "Pakistan moves toward commercial hemp as regulators tackle delays in licensing",
           "link": "https://hemptoday.net/pakistan-moves-toward-commercial-hemp-as-regulators-tackle-delays-in-licensing/",
@@ -410,14 +416,9 @@
           "title": "Australian hemp body loses elected leadership amid internal dispute and weak finances",
           "link": "https://hemptoday.net/australian-hemp-body-loses-elected-leadership-amid-internal-dispute-and-weak-finances/",
           "date": "2026-11-16T10:13:04+00:00"
-        },
-        {
-          "title": "Attempt to save intoxicating hemp drinks with ‘Goodness of Hemp’ plan draws criticism",
-          "link": "https://hemptoday.net/attempt-to-save-intoxicating-hemp-drinks-with-goodness-of-hemp-plan-draws-criticism/",
-          "date": "2026-11-11T20:19:00+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     },
     {
@@ -441,7 +442,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
+      "fetched": "2026-11-26T22:19:48+00:00",
       "ok": true
     }
   ]
