@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T22:19:48+00:00",
+  "updated": "2026-11-27T21:57:04+00:00",
   "sources": [
     {
       "id": "hempsupporter",
@@ -42,7 +42,7 @@
           "publisher": null
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -56,13 +56,6 @@
           "date": "2026-11-22T13:45:00+00:00",
           "summary": "",
           "publisher": "The Daily Galaxy"
-        },
-        {
-          "title": "A hempcrete cabin in Iceland is a ‘house for the soul’ - Wallpaper*",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXlvOHoyMHQtQktnSFpDNG1KWXQ4RWlVWDRnTkhzdVhJYnBEVjBtTElJZWVPN09rUGlYSDZpekRxZWRQc3BfTVZQRlpmdXF4emFOZ2JaaVBFWWZKbFZoQVlwbGFnZkFOdVpDRHRVUmZkNlo5cjd6TF9PWjRPY0hmaw?oc=5",
-          "date": "2026-11-01T07:00:00+00:00",
-          "summary": "",
-          "publisher": "Wallpaper*"
         },
         {
           "title": "Hemp walls go mainstream in the US: hempcrete is now in the residential building code, with no custom engineering needed - Futura, le média qui explore le monde",
@@ -84,11 +77,17 @@
           "date": "2026-08-18T07:00:00+00:00",
           "summary": "",
           "publisher": "Denver7"
+        },
+        {
+          "title": "Ricardo Leal uses hempcrete to build Pestana Chicken Coop - Dezeen",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5hRlBVWDdUOXpCM1ZsVTdUZXBqTnZqczB3dktpYU5QckhaQ0FLZEl5MFhMVkl1YkdaWTRQZ0NvVktlQW44UHZ1NUh2dnI1SFVNRWxpMWRiZnBPdGhjeS1lc29SVlA4UHU0aU5WOXBtRUVjQUoxRlM4?oc=5",
+          "date": "2026-07-04T07:00:00+00:00",
+          "summary": "",
+          "publisher": "Dezeen"
         }
       ],
-      "fetched": "2026-11-25T22:29:27+00:00",
-      "ok": false,
-      "error": "HTTP Error 503: Service Unavailable"
+      "fetched": "2026-11-27T21:57:04+00:00",
+      "ok": true
     },
     {
       "id": "r-hempcrete",
@@ -193,7 +192,7 @@
           "date": "2026-10-29T16:53:21+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -217,7 +216,7 @@
           "date": "2026-11-03T16:00:57+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -241,7 +240,7 @@
           "date": "2023-07-24T13:50:58+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -265,7 +264,7 @@
           "date": "2026-11-10T02:40:24+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -289,7 +288,7 @@
           "date": "2025-06-23T00:40:46+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -313,7 +312,7 @@
           "date": "2024-07-11T14:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -337,7 +336,7 @@
           "date": "2026-10-06T15:29:02+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -370,7 +369,7 @@
           "date": "2025-11-27T15:28:55+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -394,7 +393,7 @@
           "date": "2026-01-12T22:00:39+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -418,7 +417,7 @@
           "date": "2026-11-16T10:13:04+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     },
     {
@@ -442,7 +441,7 @@
           "date": "2026-03-04T13:00:00+00:00"
         }
       ],
-      "fetched": "2026-11-26T22:19:48+00:00",
+      "fetched": "2026-11-27T21:57:04+00:00",
       "ok": true
     }
   ]
